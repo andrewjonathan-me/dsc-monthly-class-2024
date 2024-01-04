@@ -1,0 +1,488 @@
+movie,year,imdb,votes,gross,movie ID,genre1,genre2,genre3,director,actor1,actor2,actor3,actor4,actor5,actor6
+Gone with the Wind,1939,8.1,293585,198676459,/title/tt0031381/,Drama,History,Romance            ,Victor Fleming,Thomas Mitchell,Barbara ONeil,Vivien Leigh,Evelyn Keyes,Ann Rutherford,George Reeves
+The Ten Commandments,1956,7.9,65368,93740000,/title/tt0049833/,Adventure,Drama            ,,Cecil B. DeMille,Charlton Heston,Yul Brynner,Anne Baxter,Edward G. Robinson,Yvonne De Carlo,Debra Paget
+Ben-Hur,1959,8.1,222246,74700000,/title/tt0052618/,Adventure,Drama,History            ,William Wyler,Charlton Heston,Jack Hawkins,Haya Harareet,Stephen Boyd,Hugh Griffith,Martha Scott
+The Bridge on the River Kwai,1957,8.1,206022,44908000,/title/tt0050212/,Adventure,Drama,War            ,David Lean,William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa,James Donald,Geoffrey Horne
+Around the World in 80 Days,1956,6.8,25158,42000000,/title/tt0048960/,Adventure,Comedy,Family            ,Michael Anderson,Cantinflas,Finlay Currie,Robert Morley,Ronald Squire,Basil Sydney,Noël Coward
+Swiss Family Robinson,1960,7.2,14545,40356000,/title/tt0054357/,Adventure,Family            ,,Ken Annakin,John Mills,Dorothy McGuire,James MacArthur,Janet Munro,Sessue Hayakawa,Tommy Kirk
+Rear Window,1954,8.4,450099,36764313,/title/tt0047396/,Mystery,Thriller            ,,Alfred Hitchcock,James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter,Raymond Burr,Judith Evelyn
+The Robe,1953,6.8,9492,36000000,/title/tt0046247/,Drama,History            ,,Henry Koster,Richard Burton,Jean Simmons,Victor Mature,Michael Rennie,Jay Robinson,Dean Jagger
+The Greatest Show on Earth,1952,6.6,13232,36000000,/title/tt0044672/,Drama,Family,Romance            ,Cecil B. DeMille,Betty Hutton,Cornel Wilde,Charlton Heston,Dorothy Lamour,Gloria Grahame,Henry Wilcoxon
+Mom and Dad,1945,5.1,144,34880000,/title/tt0040603/,Drama            ,,,William Beaudine,June Carlson,Lois Austin,George Eldredge,Jimmy Clark,Hardie Albright,Bob Lowell
+Psycho,1960,8.5,613001,32000000,/title/tt0054215/,Horror,Mystery,Thriller            ,Alfred Hitchcock,Anthony Perkins,Vera Miles,John Gavin,Janet Leigh,Martin Balsam,John McIntire
+From Here to Eternity,1953,7.6,43914,30500000,/title/tt0045793/,Drama,Romance,War            ,Fred Zinnemann,Burt Lancaster,Montgomery Clift,Deborah Kerr,Donna Reed,Frank Sinatra,Philip Ober
+Spartacus,1960,7.9,125622,30000000,/title/tt0054331/,Adventure,Biography,Drama            ,Stanley Kubrick,Kirk Douglas,Laurence Olivier,Jean Simmons,Charles Laughton,Peter Ustinov,John Gavin
+White Christmas,1954,7.6,34679,30000000,/title/tt0047673/,Comedy,Musical,Romance            ,Michael Curtiz,Bing Crosby,Danny Kaye,Rosemary Clooney,Vera-Ellen,Dean Jagger,Mary Wickes
+Samson and Delilah,1949,6.8,7199,28800000,/title/tt0041838/,Drama,History,Romance            ,Cecil B. DeMille,Hedy Lamarr,Victor Mature,George Sanders,Angela Lansbury,Henry Wilcoxon,Olive Deering
+"20,000 Leagues Under the Sea",1954,7.2,29926,28200000,/title/tt0046672/,Adventure,Drama,Family            ,Richard Fleischer,Kirk Douglas,James Mason,Paul Lukas,Peter Lorre,Robert J. Wilke,Ted de Corsia
+Sayonara,1957,7.1,6186,26300000,/title/tt0050933/,Drama,Romance            ,,Joshua Logan,Marlon Brando,Patricia Owens,James Garner,Martha Scott,Miiko Taka,Miyoshi Umeki
+Demetrius and the Gladiators,1954,6.6,3451,26000000,/title/tt0046899/,Action,Drama,History            ,Delmer Daves,Victor Mature,Susan Hayward,Michael Rennie,Debra Paget,Anne Bancroft,Jay Robinson
+Peyton Place,1957,7.2,5440,25600000,/title/tt0050839/,Drama,Romance            ,,Mark Robson,Lana Turner,Lee Philips,Lloyd Nolan,Arthur Kennedy,Russ Tamblyn,Terry Moore
+Some Like It Hot,1959,8.2,247150,25000000,/title/tt0053291/,Comedy,Music,Romance            ,Billy Wilder,Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft,Pat OBrien,Joe E. Brown
+Quo Vadis,1951,7.2,13885,24291740,/title/tt0043949/,Biography,Drama,History            ,Mervyn LeRoy,Robert Taylor,Deborah Kerr,Leo Genn,Peter Ustinov,Patricia Laffan,Finlay Currie
+House of Wax,1953,7.1,16452,23750000,/title/tt0045888/,Horror            ,,,André De Toth,Vincent Price,Frank Lovejoy,Phyllis Kirk,Carolyn Jones,Paul Picerni,Roy Roberts
+The Best Years of Our Lives,1946,8,57924,23650000,/title/tt0036868/,Drama,Romance,War            ,William Wyler,Myrna Loy,Fredric March,Dana Andrews,Teresa Wright,Virginia Mayo,Cathy ODonnell
+Operation Petticoat,1959,7.3,13070,23300000,/title/tt0053143/,Comedy,Romance,War            ,Blake Edwards,Cary Grant,Tony Curtis,Joan OBrien,Dina Merrill,Gene Evans,Dick Sargent
+Auntie Mame,1958,7.9,10480,23300000,/title/tt0051383/,Comedy,Drama,Romance            ,Morton DaCosta,Rosalind Russell,Forrest Tucker,Coral Browne,Fred Clark,Roger Smith,Patric Knowles
+Old Yeller,1957,7.3,12113,21909000,/title/tt0050798/,Adventure,Drama,Family            ,Robert Stevenson,Dorothy McGuire,Fess Parker,Jeff York,Chuck Connors,Beverly Washburn,Tommy Kirk
+The Caine Mutiny,1954,7.7,24653,21750000,/title/tt0046816/,Drama,War            ,,Edward Dmytryk,Humphrey Bogart,José Ferrer,Van Johnson,Fred MacMurray,Robert Francis,May Wynn
+The King and I,1956,7.4,23988,21300000,/title/tt0049408/,Biography,Drama,Musical            ,Walter Lang,Deborah Kerr,Yul Brynner,Rita Moreno,Martin Benson,Terry Saunders,Rex Thompson
+The Bells of St. Mary's,1945,7.3,7280,21300000,/title/tt0037536/,Drama            ,,,Leo McCarey,Bing Crosby,Ingrid Bergman,Henry Travers,William Gargan,Ruth Donnelly,Joan Carroll
+Mister Roberts,1955,7.7,15552,21200000,/title/tt0048380/,Comedy,Drama,War            ,John Ford,Henry Fonda,James Cagney,William Powell,Jack Lemmon,Betsy Palmer,Ward Bond
+This Is the Army,1943,5.8,997,20831178,/title/tt0036430/,Comedy,Musical,War            ,Michael Curtiz,George Murphy,Joan Leslie,George Tobias,Alan Hale,Charles Butterworth,Dolores Costello
+Duel in the Sun,1946,6.8,8081,20408163,/title/tt0038499/,Drama,Romance,Western            ,King Vidor,Jennifer Jones,Joseph Cotten,Gregory Peck,Lionel Barrymore,Herbert Marshall,Lillian Gish
+Shane,1953,7.6,37530,20000000,/title/tt0046303/,Drama,Western            ,,George Stevens,Alan Ladd,Jean Arthur,Van Heflin,Brandon De Wilde,Jack Palance,Ben Johnson
+La dolce vita,1960,8,67614,19516000,/title/tt0053779/,Comedy,Drama            ,,Federico Fellini,Marcello Mastroianni,Anita Ekberg,Anouk Aimée,Yvonne Furneaux,Magali Noël,Alain Cuny
+Exodus,1960,6.7,8953,18966000,/title/tt0053804/,Action,Drama,History            ,Otto Preminger,Paul Newman,Eva Marie Saint,Ralph Richardson,Peter Lawford,Lee J. Cobb,Sal Mineo
+Pillow Talk,1959,7.4,15903,18750000,/title/tt0053172/,Comedy,Romance            ,,Michael Gordon,Rock Hudson,Doris Day,Tony Randall,Thelma Ritter,Nick Adams,Julia Meade
+The Apartment,1960,8.3,166984,18600000,/title/tt0053604/,Comedy,Drama,Romance            ,Billy Wilder,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston,Jack Kruschen,David Lewis
+The Snows of Kilimanjaro,1952,6.2,4768,18050000,/title/tt0045162/,Adventure,Drama,Romance            ,Henry King,Gregory Peck,Susan Hayward,Ava Gardner,Hildegard Knef,Leo G. Carroll,Torin Thatcher
+For Whom the Bell Tolls,1943,6.9,8510,17800000,/title/tt0035896/,Adventure,Drama,History            ,Sam Wood,Gary Cooper,Ingrid Bergman,Akim Tamiroff,Arturo de Córdova,Vladimir Sokoloff,Mikhail Rasumny
+Cat on a Hot Tin Roof,1958,8,45823,17570324,/title/tt0051459/,Drama            ,,,Richard Brooks,Elizabeth Taylor,Paul Newman,Burl Ives,Jack Carson,Judith Anderson,Madeleine Sherwood
+The Curse of Frankenstein,1957,7.1,9820,17440000,/title/tt0050280/,Horror,Sci-Fi,Thriller            ,Terence Fisher,Peter Cushing,Hazel Court,Robert Urquhart,Christopher Lee,Melvyn Hayes,Valerie Gaunt
+Battle Cry,1955,6.5,2102,17440000,/title/tt0047860/,Drama,Romance,War            ,Raoul Walsh,Van Heflin,Aldo Ray,Mona Freeman,Nancy Olson,James Whitmore,Raymond Massey
+The Alamo,1960,6.9,14602,17262932,/title/tt0053580/,Adventure,Drama,History            ,John Wayne,John Wayne,Richard Widmark,Laurence Harvey,Frankie Avalon,Patrick Wayne,Linda Cristal
+BUtterfield 8,1960,6.4,5912,16462599,/title/tt0053622/,Drama,Romance            ,,Daniel Mann,Elizabeth Taylor,Laurence Harvey,Eddie Fisher,Dina Merrill,Mildred Dunnock,Betty Field
+Sergeant York,1941,7.7,15558,16400000,/title/tt0034167/,Biography,Drama,History            ,Howard Hawks,Gary Cooper,Walter Brennan,Joan Leslie,George Tobias,Stanley Ridges,Margaret Wycherly
+Going My Way,1944,7,10731,16300000,/title/tt0036872/,Comedy,Drama,Music            ,Leo McCarey,Bing Crosby,Barry Fitzgerald,Frank McHugh,James Brown,Gene Lockhart,Jean Heather
+Forever Amber,1947,6.6,1251,16000000,/title/tt0039391/,Adventure,Drama,Romance            ,Otto Preminger,Linda Darnell,Cornel Wilde,Richard Greene,George Sanders,Glenn Langan,Richard Haydn
+A Star Is Born,1954,7.6,16223,14933000,/title/tt0047522/,Drama,Musical,Romance            ,George Cukor,Judy Garland,James Mason,Jack Carson,Charles Bickford,Tommy Noonan,Lucy Marlow
+Imitation of Life,1959,7.9,14987,13990819,/title/tt0052918/,Drama            ,,,Douglas Sirk,Lana Turner,John Gavin,Sandra Dee,Susan Kohner,Robert Alda,Dan OHerlihy
+"Suddenly, Last Summer",1959,7.6,14041,13897500,/title/tt0053318/,Drama,Mystery,Thriller            ,Joseph L. Mankiewicz,Elizabeth Taylor,Katharine Hepburn,Montgomery Clift,Albert Dekker,Mercedes McCambridge,Gary Raymond
+Mrs. Miniver,1942,7.6,16183,13500000,/title/tt0035093/,Drama,Romance,War            ,William Wyler,Greer Garson,Walter Pidgeon,Teresa Wright,May Whitty,Reginald Owen,Henry Travers
+North by Northwest,1959,8.3,302876,13275000,/title/tt0053125/,Adventure,Mystery,Thriller            ,Alfred Hitchcock,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis,Leo G. Carroll,Josephine Hutchinson
+High Society,1956,7,14394,13000000,/title/tt0049314/,Comedy,Musical,Romance            ,Charles Walters,Bing Crosby,Grace Kelly,Frank Sinatra,Celeste Holm,John Lund,Louis Calhern
+Guys and Dolls,1955,7.1,15990,13000000,/title/tt0048140/,Comedy,Crime,Musical            ,Joseph L. Mankiewicz,Marlon Brando,Jean Simmons,Frank Sinatra,Vivian Blaine,Robert Keith,Stubby Kaye
+The Nun's Story,1959,7.6,9566,12800000,/title/tt0053131/,Drama            ,,,Fred Zinnemann,Audrey Hepburn,Peter Finch,Edith Evans,Peggy Ashcroft,Dean Jagger,Mildred Dunnock
+Rio Bravo,1959,8,57063,12535000,/title/tt0053221/,Action,Drama,Western            ,Howard Hawks,John Wayne,Dean Martin,Ricky Nelson,Angie Dickinson,Walter Brennan,Ward Bond
+War and Peace,1956,6.8,9250,12500000,/title/tt0049934/,Drama,Romance,War            ,King Vidor,Audrey Hepburn,Henry Fonda,Mel Ferrer,Vittorio Gassman,Herbert Lom,Oskar Homolka
+Ocean's Eleven,1960,6.6,20228,12317000,/title/tt0054135/,Comedy,Crime,Music            ,Lewis Milestone,Frank Sinatra,Dean Martin,Sammy Davis Jr.,Peter Lawford,Angie Dickinson,Richard Conte
+Solomon and Sheba,1959,6.2,2944,12200000,/title/tt0053290/,Drama,History,Romance            ,King Vidor,Yul Brynner,Gina Lollobrigida,George Sanders,Marisa Pavan,David Farrar,John Crawford
+Tall Story,1960,6,813,12000000,/title/tt0054367/,Comedy,Sport            ,,Joshua Logan,Anthony Perkins,Jane Fonda,Ray Walston,Marc Connelly,Anne Jackson,Murray Hamilton
+The Tall Men,1955,6.7,2262,12000000,/title/tt0048691/,Western            ,,,Raoul Walsh,Clark Gable,Jane Russell,Robert Ryan,Cameron Mitchell,Juan García,Harry Shannon
+The Seven Year Itch,1955,7.1,34561,12000000,/title/tt0048605/,Comedy,Romance            ,,Billy Wilder,Marilyn Monroe,Tom Ewell,Evelyn Keyes,Sonny Tufts,Robert Strauss,Oskar Homolka
+Gentlemen Prefer Blondes,1953,7.2,32293,12000000,/title/tt0045810/,Comedy,Musical,Romance            ,Howard Hawks,Jane Russell,Marilyn Monroe,Charles Coburn,Elliott Reid,Tommy Noonan,George Winslow
+Anatomy of a Murder,1959,8,60646,11900000,/title/tt0052561/,Crime,Drama,Mystery            ,Otto Preminger,James Stewart,Lee Remick,Ben Gazzara,Arthur OConnell,Eve Arden,Kathryn Grant
+Moulin Rouge,1952,7.1,5077,11810000,/title/tt0044926/,Biography,Drama,Music            ,John Huston,José Ferrer,Zsa Zsa Gabor,Suzanne Flon,Claude Nollier,Katherine Kath,Muriel Smith
+Yankee Doodle Dandy,1942,7.7,14264,11800000,/title/tt0035575/,Biography,Drama,Music            ,Michael Curtiz,James Cagney,Joan Leslie,Walter Huston,Richard Whorf,Irene Manning,George Tobias
+Gunfight at the O.K. Corral,1957,7.2,14358,11750000,/title/tt0050468/,Biography,Drama,Western            ,John Sturges,Burt Lancaster,Kirk Douglas,Rhonda Fleming,Jo Van Fleet,John Ireland,Lyle Bettger
+From the Terrace,1960,6.7,2473,11336000,/title/tt0053841/,Drama,Romance            ,,Mark Robson,Paul Newman,Joanne Woodward,Myrna Loy,Ina Balin,Leon Ames,Elizabeth Allen
+Elmer Gantry,1960,7.8,10585,11336000,/title/tt0053793/,Drama            ,,,Richard Brooks,Burt Lancaster,Jean Simmons,Arthur Kennedy,Dean Jagger,Shirley Jones,Patti Page
+Please Don't Eat the Daisies,1960,6.5,4142,11100000,/title/tt0054188/,Comedy,Family,Romance            ,Charles Walters,Doris Day,David Niven,Janis Paige,Spring Byington,Richard Haydn,Patsy Kelly
+On the Beach,1959,7.2,12101,11000000,/title/tt0053137/,Drama,Romance,Sci-Fi            ,Stanley Kramer,Gregory Peck,Ava Gardner,Fred Astaire,Anthony Perkins,Donna Anderson,John Tate
+A Hole in the Head,1959,6.3,2330,11000000,/title/tt0052896/,Comedy,Drama            ,,Frank Capra,Frank Sinatra,Edward G. Robinson,Eleanor Parker,Carolyn Jones,Thelma Ritter,Keenan Wynn
+A Farewell to Arms,1957,5.9,2432,11000000,/title/tt0050379/,Drama,Romance,War            ,Charles Vidor,Rock Hudson,Jennifer Jones,Vittorio De Sica,Oskar Homolka,Mercedes McCambridge,Elaine Stritch
+Tom Sawyer,1930,6.4,165,11000000,/title/tt0021483/,Adventure,Comedy,Drama            ,John Cromwell,Jackie Coogan,Junior Durkin,Mitzi Green,Lucien Littlefield,Tully Marshall,Clara Blandick
+Le fatiche di Ercole,1958,5.4,1840,10900000,/title/tt0050381/,Adventure,Fantasy            ,,Pietro Francisci,Steve Reeves,Sylva Koscina,Fabrizio Mioni,Ivo Garrani,Gianna Maria Canale,Arturo Dominici
+The Red Shoes,1948,8.1,31526,10900000,/title/tt0040725/,Drama,Music,Romance            ,Michael Powell,Anton Walbrook,Marius Goring,Moira Shearer,Robert Helpmann,Albert Bassermann,Léonide Massine
+The Man in the Gray Flannel Suit,1956,7.1,3300,10875000,/title/tt0049474/,Drama,Romance,War            ,Nunnally Johnson,Gregory Peck,Jennifer Jones,Fredric March,Marisa Pavan,Lee J. Cobb,Ann Harding
+The Quiet Man,1952,7.7,35485,10550000,/title/tt0045061/,Comedy,Drama,Romance            ,John Ford,John Wayne,Maureen OHara,Barry Fitzgerald,Ward Bond,Victor McLaglen,Mildred Natwick
+Notorious,1946,7.9,93260,10464000,/title/tt0038787/,Drama,Film-Noir,Romance            ,Alfred Hitchcock,Cary Grant,Ingrid Bergman,Claude Rains,Louis Calhern,Leopoldine Konstantin,Reinhold Schünzel
+Moby Dick,1956,7.3,17213,10400000,/title/tt0049513/,Adventure,Drama            ,,John Huston,Gregory Peck,Richard Basehart,Leo Genn,James Robertson Justice,Harry Andrews,Bernard Miles
+Battleground,1949,7.4,6626,10293960,/title/tt0041163/,Action,Drama,History            ,William A. Wellman,Van Johnson,John Hodiak,Ricardo Montalban,George Murphy,Marshall Thompson,Jerome Courtland
+The Man Who Knew Too Much,1956,7.4,59471,10250000,/title/tt0049470/,Drama,Thriller            ,,Alfred Hitchcock,James Stewart,Doris Day,Brenda de Banzie,Bernard Miles,Ralph Truman,Daniel Gélin
+Random Harvest,1942,8,7037,10137000,/title/tt0035238/,Adventure,Drama,Family            ,Mervyn LeRoy,Ronald Colman,Greer Garson,Philip Dorn,Susan Peters,Henry Travers,Reginald Owen
+Journey to the Center of the Earth,1959,7,16022,10000000,/title/tt0052948/,Adventure,Family,Fantasy            ,Henry Levin,Pat Boone,James Mason,Arlene Dahl,Diane Baker,Thayer David,Peter Ronson
+The Snake Pit,1948,7.6,6969,10000000,/title/tt0040806/,Drama,Mystery            ,,Anatole Litvak,Olivia de Havilland,Mark Stevens,Leo Genn,Celeste Holm,Glenn Langan,Helen Craig
+King Kong,1933,7.9,80258,10000000,/title/tt0024216/,Adventure,Horror,Sci-Fi            ,Merian C. Cooper,Fay Wray,Robert Armstrong,Bruce Cabot,Frank Reicher,Sam Hardy,Noble Johnson
+The Young Lions,1958,7.2,7425,9960000,/title/tt0052415/,Action,Drama,War            ,Edward Dmytryk,Marlon Brando,Montgomery Clift,Dean Martin,Hope Lange,Barbara Rush,May Britt
+Pepe,1960,5.6,895,9600000,/title/tt0054172/,Comedy,Musical            ,,George Sidney,Cantinflas,Dan Dailey,Shirley Jones,Carlos Montalbán,Vicki Trickett,Matt Mattox
+On the Waterfront,1954,8.1,144020,9600000,/title/tt0047296/,Crime,Drama,Thriller            ,Elia Kazan,Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger,Pat Henning,Leif Erickson
+Mr. Smith Goes to Washington,1939,8.1,108250,9600000,/title/tt0031679/,Comedy,Drama            ,,Frank Capra,Jean Arthur,James Stewart,Claude Rains,Edward Arnold,Guy Kibbee,Thomas Mitchell
+Week-End at the Waldorf,1945,6.6,1095,9513520,/title/tt0038239/,Comedy,Drama,Musical            ,Robert Z. Leonard,Ginger Rogers,Lana Turner,Walter Pidgeon,Van Johnson,Edward Arnold,Keenan Wynn
+The Lost Weekend,1945,7.9,34001,9460000,/title/tt0037884/,Drama,Film-Noir            ,,Billy Wilder,Ray Milland,Jane Wyman,Phillip Terry,Howard Da Silva,Doris Dowling,Frank Faylen
+High Noon,1952,7.9,98346,9450000,/title/tt0044706/,Drama,Thriller,Western            ,Fred Zinnemann,Gary Cooper,Thomas Mitchell,Lloyd Bridges,Katy Jurado,Grace Kelly,Otto Kruger
+Seven Brides for Seven Brothers,1954,7.4,21609,9403000,/title/tt0047472/,Comedy,Drama,Musical            ,Stanley Donen,Howard Keel,Jeff Richards,Russ Tamblyn,Tommy Rall,Marc Platt,Matt Mattox
+G.I. Blues,1960,6.3,3337,9374000,/title/tt0053848/,Comedy,Musical            ,,Norman Taurog,Elvis Presley,Juliet Prowse,Robert Ivers,James Douglas,Letícia Román,Sigrid Maier
+Artists and Models,1955,6.6,3635,9350000,/title/tt0047840/,Comedy,Musical,Romance            ,Frank Tashlin,Dean Martin,Jerry Lewis,Shirley MacLaine,Dorothy Malone,Eddie Mayehoff,Eva Gabor
+Boom Town,1940,7.1,3142,9172000,/title/tt0032273/,Adventure,Drama,Romance            ,Jack Conway,Clark Gable,Spencer Tracy,Claudette Colbert,Hedy Lamarr,Frank Morgan,Lionel Atwill
+Easter Parade,1948,7.4,8932,9033920,/title/tt0040308/,Musical,Romance            ,,Charles Walters,Judy Garland,Fred Astaire,Peter Lawford,Ann Miller,Jules Munshin,Clinton Sundberg
+Singin' in the Rain,1952,8.3,222187,8819028,/title/tt0045152/,Comedy,Musical,Romance            ,Stanley Donen,Gene Kelly,Donald OConnor,Debbie Reynolds,Jean Hagen,Millard Mitchell,Cyd Charisse
+The Pride and the Passion,1957,5.8,2551,8750000,/title/tt0050858/,Action,Adventure,Drama            ,Stanley Kramer,Cary Grant,Frank Sinatra,Sophia Loren,Theodore Bikel,John Wengraf,Jay Novello
+To Catch a Thief,1955,7.4,66487,8750000,/title/tt0048728/,Mystery,Romance,Thriller            ,Alfred Hitchcock,Cary Grant,Grace Kelly,Jessie Royce Landis,John Williams,Charles Vanel,Brigitte Auber
+The Postman Always Rings Twice,1946,7.5,18968,8330000,/title/tt0038854/,Crime,Drama,Film-Noir            ,Tay Garnett,Lana Turner,John Garfield,Cecil Kellaway,Hume Cronyn,Leon Ames,Audrey Totter
+Witness for the Prosecution,1957,8.4,111246,8175000,/title/tt0051201/,Crime,Drama,Mystery            ,Billy Wilder,Tyrone Power,Marlene Dietrich,Charles Laughton,Elsa Lanchester,John Williams,Henry Daniell
+Holiday Inn,1942,7.4,13664,8175000,/title/tt0034862/,Comedy,Drama,Music            ,Mark Sandrich,Bing Crosby,Fred Astaire,Marjorie Reynolds,Virginia Dale,Walter Abel,Louise Beavers
+Shanghai Express,1932,7.3,7938,8066000,/title/tt0023458/,Adventure,Drama,Romance            ,Josef von Sternberg,Marlene Dietrich,Clive Brook,Anna May Wong,Warner Oland,Eugene Pallette,Lawrence Grant
+Island in the Sun,1957,6.1,1076,8000000,/title/tt0050549/,Drama,Romance            ,,Robert Rossen,James Mason,Joan Fontaine,Dorothy Dandridge,Joan Collins,Michael Rennie,Harry Belafonte
+A Streetcar Named Desire,1951,8,100251,8000000,/title/tt0044081/,Drama            ,,,Elia Kazan,Vivien Leigh,Marlon Brando,Kim Hunter,Karl Malden,Rudy Bond,Nick Dennis
+Annie Get Your Gun,1950,6.9,4426,8000000,/title/tt0042200/,Biography,Comedy,Musical            ,George Sidney,Betty Hutton,Howard Keel,Louis Calhern,J. Carrol Naish,Edward Arnold,Keenan Wynn
+Ziegfeld Follies,1945,6.5,2921,7930000,/title/tt0039116/,Comedy,Musical            ,,Lemuel Ayers,Fred Astaire,Lucille Ball,Lucille Bremer,Fanny Brice,Judy Garland,Kathryn Grayson
+Pardners,1956,6.3,1437,7920000,/title/tt0049593/,Action,Comedy,Music            ,Norman Taurog,Dean Martin,Jerry Lewis,Lori Nelson,Jeff Morrow,Jackie Loughery,John Baragrey
+Strangers on a Train,1951,7.9,124406,7630000,/title/tt0044079/,Crime,Film-Noir,Thriller            ,Alfred Hitchcock,Farley Granger,Ruth Roman,Robert Walker,Leo G. Carroll,Patricia Hitchcock,Kasey Rogers
+Cavalcade,1933,5.8,4697,7630000,/title/tt0023876/,Drama,Romance,War            ,Frank Lloyd,Diana Wynyard,Clive Brook,Una OConnor,Herbert Mundin,Beryl Mercer,Irene Browne
+Meet Me in St. Louis,1944,7.5,21422,7566000,/title/tt0037059/,Comedy,Drama,Family            ,Vincente Minnelli,Judy Garland,Margaret OBrien,Mary Astor,Lucille Bremer,Leon Ames,Tom Drake
+Little Women,1949,7.3,6769,7466500,/title/tt0041594/,Drama,Family,Romance            ,Mervyn LeRoy,June Allyson,Peter Lawford,Margaret OBrien,Elizabeth Taylor,Janet Leigh,Rossano Brazzi
+Midnight Lace,1960,6.8,4823,7400000,/title/tt0054084/,Drama,Mystery,Thriller            ,David Miller,Doris Day,Rex Harrison,John Gavin,Myrna Loy,Roddy McDowall,Herbert Marshall
+Separate Tables,1958,7.4,6875,7400000,/title/tt0052182/,Drama,Romance            ,,Delbert Mann,Deborah Kerr,Rita Hayworth,David Niven,Wendy Hiller,Burt Lancaster,Gladys Cooper
+The World of Suzie Wong,1960,7.1,2247,7300000,/title/tt0054483/,Drama,Romance            ,,Richard Quine,William Holden,Nancy Kwan,Sylvia Syms,Michael Wilding,Jacqueline Chan,Laurence Naismith
+The Men,1950,7.1,4241,7100000,/title/tt0042727/,Drama            ,,,Fred Zinnemann,Marlon Brando,Teresa Wright,Everett Sloane,Jack Webb,Richard Erdman,Arthur Jurado
+The Vikings,1958,7.1,13215,7000000,/title/tt0052365/,Action,Adventure,History            ,Richard Fleischer,Kirk Douglas,Tony Curtis,Ernest Borgnine,Janet Leigh,James Donald,Alexander Knox
+Golden Earrings,1947,6.7,1024,7000000,/title/tt0039428/,Adventure,Romance,War            ,Mitchell Leisen,Ray Milland,Marlene Dietrich,Murvyn Vye,Bruce Lester,Dennis Hoey,Quentin Reynolds
+Spellbound,1945,7.6,44048,7000000,/title/tt0038109/,Film-Noir,Mystery,Romance            ,Alfred Hitchcock,Ingrid Bergman,Gregory Peck,Michael Chekhov,Leo G. Carroll,Rhonda Fleming,John Emery
+The 7th Voyage of Sinbad,1958,7.1,12211,6976000,/title/tt0051337/,Action,Adventure,Family            ,Nathan Juran,Kerwin Mathews,Kathryn Grant,Richard Eyer,Torin Thatcher,Alec Mango,Danny Green
+Helen of Troy,1956,6.2,2019,6976000,/title/tt0049301/,Adventure,Drama,History            ,Robert Wise,Rossana Podestà,Jacques Sernas,Cedric Hardwicke,Stanley Baker,Niall MacGinnis,Nora Swinburne
+Till the Clouds Roll By,1946,6.4,2126,6724000,/title/tt0039035/,Biography,Musical            ,,Richard Whorf,June Allyson,Lucille Bremer,Judy Garland,Kathryn Grayson,Van Heflin,Lena Horne
+Sink the Bismarck!,1960,7.1,6971,6540000,/title/tt0054310/,Action,Drama,History            ,Lewis Gilbert,Kenneth More,Dana Wynter,Carl Möhner,Laurence Naismith,Geoffrey Keen,Karel Stepanek
+Let's Make Love,1960,6.5,6721,6540000,/title/tt0054022/,Comedy,Musical,Romance            ,George Cukor,Marilyn Monroe,Yves Montand,Tony Randall,Frankie Vaughan,Wilfrid Hyde-White,David Burns
+The Big Sleep,1946,7.9,79463,6540000,/title/tt0038355/,Crime,Film-Noir,Mystery            ,Howard Hawks,Humphrey Bogart,Lauren Bacall,John Ridgely,Martha Vickers,Dorothy Malone,Peggy Knudsen
+The Major and the Minor,1942,7.4,6349,6380000,/title/tt0035019/,Comedy,Romance            ,,Billy Wilder,Ginger Rogers,Ray Milland,Rita Johnson,Robert Benchley,Diana Lynn,Edward Fielding
+Honky Tonk,1941,6.6,1003,6306740,/title/tt0033726/,Comedy,Crime,Drama            ,Jack Conway,Clark Gable,Lana Turner,Frank Morgan,Claire Trevor,Marjorie Main,Albert Dekker
+In the Good Old Summertime,1949,7.2,3446,6304560,/title/tt0041507/,Comedy,Musical,Romance            ,Robert Z. Leonard,Judy Garland,Van Johnson,S.Z. Sakall,Spring Byington,Clinton Sundberg,Buster Keaton
+My Friend Irma,1949,6.5,924,6160000,/title/tt0041673/,Comedy,Musical,Romance            ,George Marshall,John Lund,Diana Lynn,Don DeFore,Marie Wilson,Dean Martin,Jerry Lewis
+The Opposite Sex,1956,6.1,1416,6016800,/title/tt0049578/,Comedy,Musical,Romance            ,David Miller,June Allyson,Joan Collins,Dolores Gray,Ann Sheridan,Ann Miller,Leslie Nielsen
+The Grass Is Greener,1960,6.5,4657,6000000,/title/tt0053877/,Comedy,Drama,Romance            ,Stanley Donen,Cary Grant,Deborah Kerr,Robert Mitchum,Jean Simmons,Moray Watson,Joan Benham
+Apache,1954,6.4,4058,6000000,/title/tt0046719/,Western            ,,,Robert Aldrich,Burt Lancaster,Jean Peters,John McIntire,Charles Bronson,John Dehner,Paul Guilfoyle
+Double Indemnity,1944,8.3,145669,5720000,/title/tt0036775/,Crime,Drama,Film-Noir            ,Billy Wilder,Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Porter Hall,Jean Heather,Tom Powers
+Ercole e la regina di Lidia,1959,4.6,1919,5450000,/title/tt0052782/,Adventure,Fantasy            ,,Pietro Francisci,Steve Reeves,Sylva Koscina,Gabriele Antonini,Patrizia Della Rovere,Sergio Fantoni,Fulvia Franco
+Down to Earth,1947,6.2,1220,5450000,/title/tt0039337/,Comedy,Fantasy,Musical            ,Alexander Hall,Rita Hayworth,Larry Parks,Marc Platt,Roland Culver,James Gleason,Edward Everett Horton
+Saratoga,1937,6.5,1575,5301760,/title/tt0029516/,Drama,Comedy,Romance            ,Jack Conway,Clark Gable,Jean Harlow,Lionel Barrymore,Frank Morgan,Walter Pidgeon,Una Merkel
+The Yearling,1946,7.2,5399,5200000,/title/tt0039111/,Drama,Family,Western            ,Clarence Brown,Gregory Peck,Jane Wyman,Claude Jarman Jr.,Chill Wills,Clem Bevans,Margaret Wycherly
+The Diary of Anne Frank,1959,7.4,12054,5014000,/title/tt0052738/,Biography,Drama,Family            ,George Stevens,Millie Perkins,Joseph Schildkraut,Shelley Winters,Richard Beymer,Gusti Huber,Lou Jacobi
+The Treasure of the Sierra Madre,1948,8.2,115776,5014000,/title/tt0040897/,Adventure,Drama,Western            ,John Huston,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,Barton MacLane,Alfonso Bedoya
+"The Beast from 20,000 Fathoms",1953,6.7,7099,5000000,/title/tt0045546/,Horror,Sci-Fi            ,,Eugène Lourié,Paul Hubschmid,Paula Raymond,Cecil Kellaway,Kenneth Tobey,Donald Woods,Lee Van Cleef
+Destination Moon,1950,6.3,3744,5000000,/title/tt0042393/,Adventure,Drama,Sci-Fi            ,Irving Pichel,John Archer,Warner Anderson,Tom Powers,Dick Wesson,Erin OBrien-Moore,Steve Carruthers
+The Magnificent Seven,1960,7.7,88648,4905000,/title/tt0054047/,Action,Adventure,Western            ,John Sturges,Yul Brynner,Eli Wallach,Steve McQueen,Horst Buchholz,Charles Bronson,Robert Vaughn
+Titanic,1953,7,6342,4905000,/title/tt0046435/,Drama,History,Romance            ,Jean Negulesco,Clifton Webb,Barbara Stanwyck,Robert Wagner,Audrey Dalton,Thelma Ritter,Brian Aherne
+Gold Diggers of 1933,1933,7.7,7437,4800360,/title/tt0024069/,Comedy,Drama,Musical            ,Mervyn LeRoy,Warren William,Joan Blondell,Aline MacMahon,Ruby Keeler,Dick Powell,Guy Kibbee
+Bud Abbott Lou Costello Meet Frankenstein,1948,7.4,14969,4796000,/title/tt0040068/,Comedy,Fantasy,Horror            ,Charles Barton,Bud Abbott,Lou Costello,Lon Chaney Jr.,Bela Lugosi,Glenn Strange,Lenore Aubert
+Cinderfella,1960,6.1,3186,4700000,/title/tt0053716/,Comedy,Family,Fantasy            ,Frank Tashlin,Jerry Lewis,Ed Wynn,Judith Anderson,Henry Silva,Robert Hutton,Count Basie
+You Can't Take It with You,1938,7.9,23665,4659913,/title/tt0030993/,Comedy,Drama,Romance            ,Frank Capra,Jean Arthur,Lionel Barrymore,James Stewart,Edward Arnold,Mischa Auer,Ann Miller
+The Story of Robin Hood and His Merrie Men,1952,6.7,1610,4578000,/title/tt0045197/,Action,Adventure,Family            ,Ken Annakin,Richard Todd,Joan Rice,Peter Finch,James Hayter,James Robertson Justice,Martita Hunt
+Little Women,1933,7.2,6523,4578000,/title/tt0024264/,Drama,Family,Romance            ,George Cukor,Katharine Hepburn,Joan Bennett,Paul Lukas,Edna May Oliver,Jean Parker,Frances Dee
+Love Me Tender,1956,6.3,3692,4500000,/title/tt0049452/,Drama,Musical,Romance            ,Robert D. Webb,Richard Egan,Debra Paget,Elvis Presley,Robert Middleton,William Campbell,Neville Brand
+The Conqueror,1956,3.7,3141,4500000,/title/tt0049092/,Adventure,Biography,History            ,Dick Powell,John Wayne,Susan Hayward,Pedro Armendáriz,Agnes Moorehead,Thomas Gomez,John Hoyt
+An American in Paris,1951,7.2,30944,4500000,/title/tt0043278/,Drama,Musical,Romance            ,Vincente Minnelli,Gene Kelly,Leslie Caron,Oscar Levant,Georges Guétary,Nina Foch,Robert Ames
+Road to Rio,1947,7,3126,4500000,/title/tt0039776/,Adventure,Comedy,Musical            ,Norman Z. McLeod,Bing Crosby,Bob Hope,Dorothy Lamour,Gale Sondergaard,Frank Faylen,Joseph Vitale
+Suspicion,1941,7.4,33428,4500000,/title/tt0034248/,Film-Noir,Mystery,Thriller            ,Alfred Hitchcock,Cary Grant,Joan Fontaine,Cedric Hardwicke,Nigel Bruce,May Whitty,Isabel Jeans
+For Me and My Gal,1942,7.1,3145,4371000,/title/tt0034746/,Musical,Romance,War            ,Busby Berkeley,Judy Garland,George Murphy,Gene Kelly,Mártha Eggerth,Ben Blue,Stephen McNally
+12 Angry Men,1957,9,702776,4360000,/title/tt0050083/,Crime,Drama            ,,Sidney Lumet,Martin Balsam,John Fiedler,Lee J. Cobb,E.G. Marshall,Jack Klugman,Edward Binns
+The War of the Worlds,1953,7.1,33032,4360000,/title/tt0046534/,Action,Sci-Fi,Thriller            ,Byron Haskin,Gene Barry,Ann Robinson,Les Tremayne,Robert Cornthwaite,Sandro Giglio,Lewis Martin
+Laura,1944,8,43250,4360000,/title/tt0037008/,Drama,Film-Noir,Mystery            ,Otto Preminger,Gene Tierney,Dana Andrews,Clifton Webb,Vincent Price,Judith Anderson,Grant Mitchell
+Rebecca,1940,8.1,125830,4360000,/title/tt0032976/,Drama,Mystery,Romance            ,Alfred Hitchcock,Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson,Nigel Bruce,Reginald Denny
+The Mark of Zorro,1940,7.5,9318,4360000,/title/tt0032762/,Action,Adventure,Romance            ,Rouben Mamoulian,Tyrone Power,Linda Darnell,Basil Rathbone,Gale Sondergaard,Eugene Pallette,J. Edward Bromberg
+A Star Is Born,1937,7.3,8886,4360000,/title/tt0029606/,Drama,Romance            ,,William A. Wellman,Janet Gaynor,Fredric March,Adolphe Menjou,May Robson,Andy Devine,Lionel Stander
+Bride of Frankenstein,1935,7.8,44011,4360000,/title/tt0026138/,Drama,Horror,Sci-Fi            ,James Whale,Boris Karloff,Colin Clive,Valerie Hobson,Ernest Thesiger,Elsa Lanchester,Gavin Gordon
+It Happened One Night,1934,8.1,95545,4360000,/title/tt0025316/,Comedy,Romance            ,,Frank Capra,Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns,Jameson Thomas,Alan Hale
+Pinky,1949,7.2,2790,4200000,/title/tt0041746/,Drama            ,,,Elia Kazan,Jeanne Crain,Ethel Barrymore,Ethel Waters,William Lundigan,Basil Ruysdael,Kenny Washington
+Pork Chop Hill,1959,7.1,4269,4024066,/title/tt0053183/,Action,Drama,War            ,Lewis Milestone,Gregory Peck,Harry Guardino,Rip Torn,George Peppard,Carl Benton Reid,James Edwards
+Ingagi,1930,5.2,63,4000000,/title/tt0164686/,Action,Adventure,Fantasy            ,William Campbell,Sir Hubert Winstead,Arthur Clayton,Louis Nizor,Charles Gemora,Mel Koontz,
+Jailhouse Rock,1957,6.6,7857,4000000,/title/tt0050556/,Drama,Music,Musical            ,Richard Thorpe,Elvis Presley,Judy Tyler,Mickey Shaughnessy,Vaughn Taylor,Jennifer Holden,Dean Jones
+Rock Around the Clock,1956,6.2,1064,4000000,/title/tt0049682/,Comedy,Music,Romance            ,Fred F. Sears,Bill Haley and the Comets,Bill Haley,The Platters,Ernie Freeman Combo,Tony Martinez and His Band,Tony Martinez
+Badman's Territory,1946,6.3,653,4000000,/title/tt0038321/,Adventure,Romance,Western            ,Tim Whelan,Randolph Scott,Ann Richards,George Gabby Hayes,Ray Collins,James Warren,Morgan Conway
+Dillinger,1945,6.6,1721,4000000,/title/tt0037644/,Biography,Crime,Drama            ,Max Nosseck,Edmund Lowe,Anne Jeffreys,Eduardo Ciannelli,Lawrence Tierney,Marc Lawrence,Elisha Cook Jr.
+Cat People,1942,7.3,20417,4000000,/title/tt0034587/,Fantasy,Horror,Thriller            ,Jacques Tourneur,Simone Simon,Kent Smith,Tom Conway,Jane Randolph,Jack Holt,Henrietta Burnside
+Buck Privates,1941,7.1,4100,4000000,/title/tt0033436/,Comedy,Musical,War            ,Arthur Lubin,Bud Abbott,Lou Costello,Lee Bowman,Jane Frazee,Alan Curtis,Nat Pendleton
+The Adventures of Robin Hood,1938,7.9,47662,3981000,/title/tt0029843/,Action,Adventure,Romance            ,Michael Curtiz,Errol Flynn,Olivia de Havilland,Basil Rathbone,Claude Rains,Patric Knowles,Eugene Pallette
+Ace in the Hole,1951,8.1,32162,3969893,/title/tt0043338/,Drama,Film-Noir            ,,Billy Wilder,Kirk Douglas,Jan Sterling,Robert Arthur,Porter Hall,Frank Cady,Richard Benedict
+Top Hat,1935,7.7,17681,3884760,/title/tt0027125/,Comedy,Musical,Romance            ,Mark Sandrich,Fred Astaire,Ginger Rogers,Edward Everett Horton,Erik Rhodes,Eric Blore,Helen Broderick
+Ruby Gentry,1952,6.7,1417,3850000,/title/tt0045109/,Drama,Romance            ,,King Vidor,Jennifer Jones,Charlton Heston,Karl Malden,Tom Tully,Barney Phillips,James Anderson
+Babes on Broadway,1941,6.7,1353,3850000,/title/tt0034485/,Comedy,Musical,Romance            ,Busby Berkeley,Mickey Rooney,Judy Garland,Fay Bainter,Virginia Weidler,Ray McDonald,Richard Quine
+Jane Eyre,1943,7.5,8016,3815000,/title/tt0036969/,Drama,Romance            ,,Robert Stevenson,Orson Welles,Joan Fontaine,Margaret OBrien,Peggy Ann Garner,John Sutton,Sara Allgood
+Girl Crazy,1943,6.8,1673,3770000,/title/tt0035942/,Comedy,Musical,Romance            ,Norman Taurog,Mickey Rooney,Judy Garland,Gil Stratton,Robert E. Strickland,Rags Ragland,June Allyson
+Warlock,1959,7.2,5577,3706000,/title/tt0053434/,Drama,Western            ,,Edward Dmytryk,Richard Widmark,Henry Fonda,Anthony Quinn,Dorothy Malone,Dolores Michaels,Wallace Ford
+Arabian Nights,1942,6.1,1285,3706000,/title/tt0034465/,Action,Adventure,Comedy            ,John Rawlins,Jon Hall,Maria Montez,Sabu,Leif Erickson,Billy Gilbert,Edgar Barrier
+Night and the City,1950,7.9,12214,3600000,/title/tt0042788/,Crime,Film-Noir,Mystery            ,Jules Dassin,Richard Widmark,Gene Tierney,Googie Withers,Hugh Marlowe,Francis L. Sullivan,Herbert Lom
+Casanova's Big Night,1954,6.8,942,3500000,/title/tt0046834/,Adventure,Comedy            ,,Norman Z. McLeod,Bob Hope,Joan Fontaine,Audrey Dalton,Basil Rathbone,Hugh Marlowe,Arnold Moss
+Coney Island,1943,6.4,405,3500000,/title/tt0035749/,Comedy,Musical,Romance            ,Walter Lang,Betty Grable,George Montgomery,Cesar Romero,Charles Winninger,Phil Silvers,Matt Briggs
+Phantom of the Opera,1943,6.4,6665,3488000,/title/tt0036261/,Drama,Horror,Music            ,Arthur Lubin,Nelson Eddy,Susanna Foster,Claude Rains,Edgar Barrier,Leo Carrillo,Jane Farrar
+Foreign Correspondent,1940,7.5,18866,3484588,/title/tt0032484/,Action,Romance,Thriller            ,Alfred Hitchcock,Joel McCrea,Laraine Day,Herbert Marshall,George Sanders,Albert Bassermann,Robert Benchley
+Sweet Rosie O'Grady,1943,6.5,282,3400000,/title/tt0036406/,Musical            ,,,Irving Cummings,Betty Grable,Robert Young,Adolphe Menjou,Reginald Gardiner,Virginia Grey,Phil Regan
+"Hello Frisco, Hello",1943,6.6,437,3400000,/title/tt0035982/,Comedy,Music,Musical            ,H. Bruce Humberstone,Alice Faye,John Payne,Jack Oakie,Lynn Bari,Laird Cregar,June Havoc
+Bud Abbott and Lou Costello Meet the Invisible Man,1951,6.8,4979,3379000,/title/tt0043255/,Comedy,Sci-Fi,Sport            ,Charles Lamont,Bud Abbott,Lou Costello,Nancy Guild,Arthur Franz,Adele Jergens,Sheldon Leonard
+Hitler's Children,1943,6.4,837,3355000,/title/tt0034856/,Drama,Romance            ,,Edward Dmytryk,Tim Holt,Bonita Granville,Kent Smith,Otto Kruger,H.B. Warner,Lloyd Corrigan
+13 Ghosts,1960,6.1,5478,3270000,/title/tt0053559/,Horror,Mystery            ,,William Castle,Charles Herbert,Jo Morrow,Martin Milner,Rosemary DeCamp,Donald Woods,Margaret Hamilton
+Nothing But Trouble,1944,6.6,1106,3270000,/title/tt0037138/,Comedy            ,,,Sam Taylor,Stan Laurel,Oliver Hardy,Mary Boland,Philip Merivale,Henry ONeill,David Leland
+Tarzan Triumphs,1943,6.4,2028,3270000,/title/tt0036414/,Action,Adventure,War            ,Wilhelm Thiele,Johnny Weissmuller,Johnny Sheffield,Frances Gifford,Stanley Ridges,Sig Ruman,Philip Van Zandt
+Flying Tigers,1942,6.8,3556,3270000,/title/tt0034742/,Action,Drama,Romance            ,David Miller,John Wayne,John Carroll,Anna Lee,Paul Kelly,Gordon Jones,Mae Clarke
+The Hunchback of Notre Dame,1939,7.8,10527,3270000,/title/tt0031455/,Drama,Romance            ,,William Dieterle,Charles Laughton,Cedric Hardwicke,Thomas Mitchell,Maureen OHara,Edmond OBrien,Alan Marshal
+All Quiet on the Western Front,1930,8,57792,3270000,/title/tt0020629/,Drama,War            ,,Lewis Milestone,Louis Wolheim,Lew Ayres,John Wray,Arnold Lucy,Ben Alexander,Scott Kolk
+Tomorrow Is Forever,1946,7.3,2361,3250000,/title/tt0039041/,Drama,Romance,War            ,Irving Pichel,Claudette Colbert,Orson Welles,George Brent,Lucile Watson,Richard Long,Natalie Wood
+Vertigo,1958,8.3,369785,3200000,/title/tt0052357/,Mystery,Romance,Thriller            ,Alfred Hitchcock,James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore,Henry Jones,Raymond Bailey
+House of Usher,1960,7,12254,3161000,/title/tt0053925/,Drama,Horror            ,,Roger Corman,Vincent Price,Mark Damon,Myrna Fahey,Harry Ellerbe,David Andar,Mario Bellini
+The Blue Angel,1959,6.3,271,3052000,/title/tt0052638/,Drama            ,,,Edward Dmytryk,Curd Jürgens,May Britt,Theodore Bikel,John Banner,Fabrizio Mioni,Ludwig Stössel
+Pygmalion,1938,7.7,8008,3052000,/title/tt0030637/,Comedy,Drama,Romance            ,Anthony Asquith,Leslie Howard,Wendy Hiller,Wilfrid Lawson,Marie Lohr,Scott Sunderland,Jean Cadell
+Macumba Love,1960,5,63,3000000,/title/tt0054045/,Action,Adventure,Fantasy            ,Douglas Fowley,Walter Reed,Ziva Rodann,William Wellman Jr.,June Wilkinson,Ruth de Souza,Pedro Paulo Hatheyer
+The Fly,1958,7.1,21072,3000000,/title/tt0051622/,Drama,Horror,Sci-Fi            ,Kurt Neumann,David Hedison,Patricia Owens,Vincent Price,Herbert Marshall,Kathleen Freeman,Betty Lou Gerson
+Forbidden Planet,1956,7.6,45754,3000000,/title/tt0049223/,Action,Adventure,Sci-Fi            ,Fred M. Wilcox,Walter Pidgeon,Anne Francis,Leslie Nielsen,Warren Stevens,Jack Kelly,Richard Anderson
+The World in His Arms,1952,6.9,1799,3000000,/title/tt0045339/,Action,Adventure,History            ,Raoul Walsh,Gregory Peck,Ann Blyth,Anthony Quinn,John McIntire,Carl Esmond,Andrea King
+Without Reservations,1946,6.6,1523,3000000,/title/tt0039110/,Comedy,Romance            ,,Mervyn LeRoy,Claudette Colbert,John Wayne,Don DeFore,Anne Triola,Phil Brown,Frank Puglia
+The Bandit of Sherwood Forest,1946,5.8,409,3000000,/title/tt0038326/,Action,Adventure,Family            ,Henry Levin,Cornel Wilde,Anita Louise,Jill Esmond,Edgar Buchanan,Henry Daniell,George Macready
+Three Smart Girls,1936,6.6,1274,3000000,/title/tt0028373/,Comedy,Musical,Romance            ,Henry Koster,Binnie Barnes,Charles Winninger,Alice Brady,Ray Milland,Mischa Auer,Ernest Cossart
+The Glass Slipper,1955,6.5,1306,2971340,/title/tt0048124/,Fantasy,Musical,Romance            ,Charles Walters,Leslie Caron,Michael Wilding,Keenan Wynn,Estelle Winwood,Elsa Lanchester,Barry Jones
+The Pirate,1948,7,4463,2956000,/title/tt0040694/,Adventure,Comedy,Musical            ,Vincente Minnelli,Judy Garland,Gene Kelly,Walter Slezak,Gladys Cooper,Reginald Owen,George Zucco
+I'm No Angel,1933,6.9,3135,2850000,/title/tt0024166/,Comedy,Music,Romance            ,Wesley Ruggles,Mae West,Cary Grant,Gregory Ratoff,Edward Arnold,Ralf Harolde,Kent Taylor
+Jungle Book,1942,6.7,3874,2834000,/title/tt0034928/,Action,Adventure,Family            ,Zoltan Korda,Sabu,Joseph Calleia,John Qualen,Frank Puglia,Rosemary DeCamp,Patricia ORourke
+Three Little Words,1950,7,1604,2800000,/title/tt0043044/,Biography,Comedy,Musical            ,Richard Thorpe,Fred Astaire,Red Skelton,Vera-Ellen,Arlene Dahl,Keenan Wynn,Gale Robbins
+The Clock,1945,7.4,3052,2783000,/title/tt0037604/,Drama,Romance            ,,Vincente Minnelli,Judy Garland,Robert Walker,James Gleason,Keenan Wynn,Marshall Thompson,Lucile Gleason
+The Shocking Miss Pilgrim,1947,6.5,388,2734000,/title/tt0039819/,Comedy,Musical,Romance            ,George Seaton,Betty Grable,Dick Haymes,Anne Revere,Allyn Joslyn,Gene Lockhart,Elizabeth Patterson
+The Blue Dahlia,1946,7.2,7713,2700000,/title/tt0038369/,Crime,Film-Noir,Mystery            ,George Marshall,Alan Ladd,Veronica Lake,William Bendix,Howard Da Silva,Doris Dowling,Tom Powers
+Call Me Mister,1951,5.8,205,2697000,/title/tt0043370/,Musical            ,,,Lloyd Bacon,Betty Grable,Dan Dailey,Danny Thomas,Dale Robertson,Benay Venuta,Richard Boone
+Grand Hotel,1932,7.4,17616,2692300,/title/tt0022958/,Drama,Romance            ,,Edmund Goulding,Greta Garbo,John Barrymore,Joan Crawford,Wallace Beery,Lionel Barrymore,Lewis Stone
+Miracle on 34th Street,1947,7.9,41932,2650000,/title/tt0039628/,Comedy,Drama,Family            ,George Seaton,Maureen OHara,John Payne,Edmund Gwenn,Gene Lockhart,Natalie Wood,Porter Hall
+Meet Me After the Show,1951,6.2,160,2606000,/title/tt0043795/,Comedy,Music,Musical            ,Richard Sale,Betty Grable,Macdonald Carey,Rory Calhoun,Eddie Albert,Fred Clark,Lois Andrews
+Fancy Pants,1950,6.6,1164,2600000,/title/tt0042447/,Comedy,Musical,Western            ,George Marshall,Bob Hope,Lucille Ball,Bruce Cabot,Jack Kirkwood,Lea Penman,Hugh French
+The Yellow Cab Man,1950,6.5,474,2599000,/title/tt0043150/,Comedy,Drama,Romance            ,Jack Donohue,Red Skelton,Gloria DeHaven,Walter Slezak,Edward Arnold,James Gleason,Jay C. Flippen
+Here Comes the Navy,1934,6.3,862,2578940,/title/tt0025238/,Comedy,Drama,Romance            ,Lloyd Bacon,James Cagney,Pat OBrien,Gloria Stuart,Frank McHugh,Dorothy Tree,Robert Barrat
+Prince of Foxes,1949,7.1,1540,2550000,/title/tt0041767/,Adventure,Drama,History            ,Henry King,Tyrone Power,Orson Welles,Wanda Hendrix,Marina Berti,Everett Sloane,Katina Paxinou
+A Night at the Opera,1935,7.9,30868,2537520,/title/tt0026778/,Comedy,Music,Musical            ,Sam Wood,Groucho Marx,Chico Marx,Harpo Marx,Kitty Carlisle,Allan Jones,Walter Woolf King
+Treasure Island,1934,7.1,2487,2537520,/title/tt0025907/,Adventure,Family            ,,Victor Fleming,Wallace Beery,Jackie Cooper,Lionel Barrymore,Otto Kruger,Lewis Stone,Nigel Bruce
+Last Train from Gun Hill,1959,7.4,6757,2500000,/title/tt0052993/,Drama,Romance,Western            ,John Sturges,Kirk Douglas,Anthony Quinn,Carolyn Jones,Earl Holliman,Brad Dexter,Brian G. Hutton
+On the Riviera,1951,6.4,946,2500000,/title/tt0043882/,Comedy,Musical            ,,Walter Lang,Danny Kaye,Gene Tierney,Corinne Calvet,Marcel Dalio,Jean Murat,Henri Letondal
+Two Guys from Milwaukee,1946,6.4,436,2500000,/title/tt0039053/,Comedy            ,,,David Butler,Dennis Morgan,Joan Leslie,Jack Carson,Janis Paige,S.Z. Sakall,Patti Brady
+Gojira,1954,7.6,30392,2423423,/title/tt0047034/,Horror,Sci-Fi,Thriller            ,Ishirô Honda,Akira Takarada,Momoko Kôchi,Akihiko Hirata,Takashi Shimura,Fuyuki Murakami,Sachio Sakai
+Les Miserables,1952,6.8,972,2398000,/title/tt0044907/,Adventure,Drama,History            ,Lewis Milestone,Michael Rennie,Debra Paget,Robert Newton,Edmund Gwenn,Sylvia Sidney,Cameron Mitchell
+Peking Express,1951,5.7,74,2398000,/title/tt0043912/,Action,Drama,Film-Noir            ,William Dieterle,Joseph Cotten,Corinne Calvet,Edmund Gwenn,Marvin Miller,Benson Fong,Soo Yong
+Roxie Hart,1942,6.9,1616,2398000,/title/tt0035272/,Comedy,Crime,Romance            ,William A. Wellman,Ginger Rogers,Adolphe Menjou,George Montgomery,Lynne Overman,Nigel Bruce,Phil Silvers
+To the Shores of Tripoli,1942,6,748,2300000,/title/tt0035447/,Drama,Romance,War            ,H. Bruce Humberstone,John Payne,Maureen OHara,Randolph Scott,Nancy Kelly,William Tracy,Maxie Rosenbloom
+42nd Street,1933,7.4,10933,2300000,/title/tt0024034/,Comedy,Drama,Musical            ,Lloyd Bacon,Warner Baxter,Bebe Daniels,George Brent,Ruby Keeler,Guy Kibbee,Una Merkel
+Humoresque,1946,7.3,4028,2281000,/title/tt0038622/,Drama,Music,Romance            ,Jean Negulesco,Joan Crawford,John Garfield,Oscar Levant,J. Carrol Naish,Joan Chandler,Tom DAndrea
+One Hundred Men and a Girl,1937,6.7,955,2270200,/title/tt0029347/,Comedy,Drama,Music            ,Henry Koster,Deanna Durbin,Leopold Stokowski,Adolphe Menjou,Alice Brady,Eugene Pallette,Mischa Auer
+The Women,1939,7.8,12730,2270000,/title/tt0032143/,Comedy,Drama            ,,George Cukor,Norma Shearer,Joan Crawford,Rosalind Russell,Mary Boland,Paulette Goddard,Joan Fontaine
+Tarzan Finds a Son!,1939,6.6,3153,2265020,/title/tt0032007/,Action,Adventure,Family            ,Richard Thorpe,Johnny Weissmuller,Maureen OSullivan,Johnny Sheffield,Ian Hunter,Henry Stephenson,Frieda Inescort
+Flamingo Road,1949,7,2426,2263000,/title/tt0041373/,Drama,Film-Noir,Romance            ,Michael Curtiz,Joan Crawford,Zachary Scott,Sydney Greenstreet,David Brian,Gladys George,Virginia Huston
+Touch of Evil,1958,8,99222,2237659,/title/tt0052311/,Crime,Drama,Film-Noir            ,Orson Welles,Charlton Heston,Janet Leigh,Orson Welles,Joseph Calleia,Akim Tamiroff,Joanna Moore
+Vivere in pace,1947,7,175,2200000,/title/tt0039966/,Drama,War,Comedy            ,Luigi Zampa,Aldo Fabrizi,Gar Moore,Mirella Monti,John Kitzmiller,Heinrich Bode,Ave Ninchi
+Tarzan's Greatest Adventure,1959,6.5,1187,2180000,/title/tt0053334/,Action,Adventure            ,,John Guillermin,Gordon Scott,Anthony Quayle,Sara Shane,Niall MacGinnis,Sean Connery,Al Mulock
+The Miniver Story,1950,6.5,721,2158200,/title/tt0042735/,Drama            ,,,H.C. Potter,Greer Garson,Walter Pidgeon,John Hodiak,Leo Genn,Cathy ODonnell,Reginald Owen
+The Maltese Falcon,1941,8,150241,2108060,/title/tt0033870/,Crime,Film-Noir,Mystery            ,John Huston,Humphrey Bogart,Mary Astor,Gladys George,Peter Lorre,Barton MacLane,Lee Patrick
+King Richard and the Crusaders,1954,5.6,714,2100000,/title/tt0047150/,Adventure,History,Romance            ,David Butler,Rex Harrison,Virginia Mayo,George Sanders,Laurence Harvey,Robert Douglas,Michael Pate
+The Wizard of Oz,1939,8,373641,2076020,/title/tt0032138/,Adventure,Family,Fantasy            ,Victor Fleming,Judy Garland,Frank Morgan,Ray Bolger,Bert Lahr,Jack Haley,Billie Burke
+Wabash Avenue,1950,6.1,270,2039000,/title/tt0043116/,Musical            ,,,Henry Koster,Betty Grable,Victor Mature,Phil Harris,Reginald Gardiner,James Barton,Barry Kelley
+I Was a Teenage Werewolf,1957,5.2,2348,2000000,/title/tt0050530/,Drama,Fantasy,Horror            ,Gene Fowler Jr.,Michael Landon,Yvonne Lime,Whit Bissell,Charles Willcox,Dawn Richard,Barney Phillips
+Et Dieu... créa la femme,1956,6.4,7718,2000000,/title/tt0049189/,Drama,Romance            ,,Roger Vadim,Brigitte Bardot,Curd Jürgens,Jean-Louis Trintignant,Jane Marken,Jean Tissier,Isabelle Corey
+Killer McCoy,1947,6.5,389,2000000,/title/tt0039531/,Drama            ,,,Roy Rowland,Mickey Rooney,Brian Donlevy,Ann Blyth,James Dunn,Tom Tully,Sam Levene
+Wilson,1944,6.4,1448,2000000,/title/tt0037465/,Biography,Drama,History            ,Henry King,Charles Coburn,Geraldine Fitzgerald,Thomas Mitchell,Ruth Nelson,Cedric Hardwicke,Vincent Price
+Stella Dallas,1937,7.4,4864,2000000,/title/tt0029608/,Drama,Romance            ,,King Vidor,Barbara Stanwyck,John Boles,Anne Shirley,Barbara ONeil,Alan Hale,Marjorie Main
+One in a Million,1936,6.2,261,2000000,/title/tt0028063/,Comedy,Music,Romance            ,Sidney Lanfield,Sonja Henie,Adolphe Menjou,Don Ameche,Ned Sparks,Jean Hersholt,The Ritz Brothers
+She Done Him Wrong,1933,6.3,5621,2000000,/title/tt0024548/,Comedy,Drama,History            ,Lowell Sherman,Mae West,Cary Grant,Owen Moore,Gilbert Roland,Noah Beery,David Landau
+Emma,1932,7,917,2000000,/title/tt0022854/,Drama            ,,,Clarence Brown,Marie Dressler,Richard Cromwell,Jean Hersholt,Myrna Loy,John Miljan,Purnell Pratt
+Tarzan and the Lost Safari,1957,5.8,561,1994700,/title/tt0051057/,Action,Adventure            ,,H. Bruce Humberstone,Gordon Scott,Robert Beatty,Yolande Donlan,Betta St. John,Wilfrid Hyde-White,George Coulouris
+Possessed,1947,7.2,4721,1987000,/title/tt0039725/,Crime,Drama,Film-Noir            ,Curtis Bernhardt,Joan Crawford,Van Heflin,Raymond Massey,Geraldine Brooks,Stanley Ridges,John Ridgely
+Betrayed,1954,6.1,1102,1970000,/title/tt0046770/,Drama,History,Romance            ,Gottfried Reinhardt,Clark Gable,Lana Turner,Victor Mature,Louis Calhern,O.E. Hasse,Wilfrid Hyde-White
+Flaming Star,1960,6.5,3079,1962000,/title/tt0053825/,Action,Drama,Romance            ,Don Siegel,Elvis Presley,Barbara Eden,Steve Forrest,Dolores del Rio,John McIntire,Rodolfo Acosta
+Swiss Family Robinson,1940,6.4,510,1940200,/title/tt0033124/,Adventure            ,,,Edward Ludwig,Thomas Mitchell,Edna Best,Freddie Bartholomew,Terry Kilburn,Tim Holt,Bobbie Quillan
+"Sleep, My Love",1948,6.8,1542,1800000,/title/tt0040798/,Drama,Film-Noir,Mystery            ,Douglas Sirk,Claudette Colbert,Robert Cummings,Don Ameche,Rita Johnson,George Coulouris,Queenie Smith
+Damaged Lives,1933,4.4,158,1800000,/title/tt0028755/,Drama            ,,,Edgar G. Ulmer,Diane Sinclair,Lyman Williams,George Irving,Almeda Fowler,Jason Robards Sr.,Marceline Day
+Count Your Blessings,1959,5.2,282,1765800,/title/tt0052706/,Comedy,Drama            ,,Jean Negulesco,Deborah Kerr,Rossano Brazzi,Maurice Chevalier,Martin Stephens,Tom Helmore,Ronald Squire
+The Horse Soldiers,1959,7.2,9609,1753526,/title/tt0052902/,Adventure,Romance,War            ,John Ford,John Wayne,William Holden,Constance Towers,Judson Pratt,Hoot Gibson,Ken Curtis
+The Red Beret,1953,5.9,605,1750000,/title/tt0046161/,Drama,War            ,,Terence Young,Alan Ladd,Leo Genn,Susan Stephen,Harry Andrews,Donald Houston,Anthony Bushell
+Anna Lucasta,1949,6.6,106,1700000,/title/tt0041125/,Drama,Film-Noir            ,,Irving Rapper,Paulette Goddard,William Bishop,John Ireland,Oskar Homolka,Broderick Crawford,Will Geer
+The Invisible Man's Revenge,1944,5.8,1929,1669226,/title/tt0036959/,Horror,Sci-Fi            ,,Ford Beebe,Jon Hall,Leon Errol,John Carradine,Alan Curtis,Evelyn Ankers,Gale Sondergaard
+The Big Noise,1944,6.5,1136,1635000,/title/tt0036644/,Action,Adventure,Comedy            ,Malcolm St. Clair,Stan Laurel,Oliver Hardy,Doris Merrick,Arthur Space,Veda Ann Borg,Robert Blake
+The Ox-Bow Incident,1942,8,21112,1635000,/title/tt0036244/,Drama,Western            ,,William A. Wellman,Henry Fonda,Dana Andrews,Mary Beth Hughes,Anthony Quinn,William Eythe,Harry Morgan
+Road to Morocco,1942,7.1,5103,1626400,/title/tt0035262/,Adventure,Comedy,Family            ,David Butler,Bing Crosby,Bob Hope,Dorothy Lamour,Anthony Quinn,Dona Drake,Vladimir Sokoloff
+Feet First,1930,6.7,980,1589000,/title/tt0020876/,Adventure,Comedy,Romance            ,Clyde Bruckman,Harold Lloyd,Barbara Kent,Robert McWade,Lillian Leighton,Henry Hall,Noah Young
+Citizen Kane,1941,8.3,410345,1585634,/title/tt0033467/,Drama,Mystery            ,,Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead,Ruth Warrick,Ray Collins,Erskine Sanford
+Parnell,1937,5.4,465,1576000,/title/tt0029377/,Biography,Drama,Romance            ,John M. Stahl,Clark Gable,Myrna Loy,Edna May Oliver,Edmund Gwenn,Alan Marshal,Donald Crisp
+Tarzan's Fight for Life,1958,5.5,439,1569600,/title/tt0052275/,Action,Adventure            ,,H. Bruce Humberstone,Gordon Scott,Eve Brent,Rickie Sorensen,Jil Jarmyn,James Edwards,Carl Benton Reid
+The Damned Don't Cry,1950,7.2,2588,1540000,/title/tt0042376/,Crime,Drama,Film-Noir            ,Vincent Sherman,Joan Crawford,David Brian,Steve Cochran,Kent Smith,Hugh Sanders,Selena Royle
+Jungfrukällan,1960,8.1,27083,1526000,/title/tt0053976/,Drama            ,,,Ingmar Bergman,Max von Sydow,Birgitta Valberg,Gunnel Lindblom,Birgitta Pettersson,Axel Düberg,Tor Isedal
+Land of the Pharaohs,1955,6.6,3693,1500000,/title/tt0048283/,Adventure,Drama,History            ,Howard Hawks,Jack Hawkins,Joan Collins,Dewey Martin,Alexis Minotis,James Robertson Justice,Luisella Boni
+Sitting Bull,1954,5.7,631,1500000,/title/tt0047501/,Western            ,,,Sidney Salkow,Dale Robertson,Mary Murphy,J. Carrol Naish,John Litel,Joel Fluellen,Iron Eyes Cody
+Men of the Fighting Lady,1954,6.3,527,1500000,/title/tt0047230/,Drama,War            ,,Andrew Marton,Van Johnson,Walter Pidgeon,Louis Calhern,Dewey Martin,Keenan Wynn,Frank Lovejoy
+The Long Wait,1954,6.5,219,1500000,/title/tt0047190/,Adventure,Crime,Drama            ,Victor Saville,Anthony Quinn,Charles Coburn,Gene Evans,Peggie Castle,Mary Ellen Kay,Shirley Patterson
+The Beautiful Blonde from Bashful Bend,1949,6.1,745,1489000,/title/tt0041165/,Comedy,Western            ,,Preston Sturges,Betty Grable,Cesar Romero,Rudy Vallee,Olga San Juan,Porter Hall,Hugh Herbert
+The Gorgeous Hussy,1936,5.7,1007,1458000,/title/tt0027690/,Drama,History            ,,Clarence Brown,Joan Crawford,Robert Taylor,Lionel Barrymore,Franchot Tone,Melvyn Douglas,James Stewart
+Phantom of the Rue Morgue,1954,5.9,821,1450000,/title/tt0047348/,Crime,Horror,Mystery            ,Roy Del Ruth,Karl Malden,Claude Dauphin,Patricia Medina,Steve Forrest,Allyn Ann McLerie,Anthony Caruso
+Escape from Fort Bravo,1953,6.7,2471,1450000,/title/tt0045737/,Western            ,,,John Sturges,William Holden,Eleanor Parker,John Forsythe,William Demarest,William Campbell,Polly Bergen
+Movie Crazy,1932,7.1,1409,1439000,/title/tt0023241/,Comedy,Family,Romance            ,Clyde Bruckman,Harold Lloyd,Constance Cummings,Kenneth Thomson,Louise Closser Hale,Spencer Charters,Robert McWade
+"Tarzan, the Ape Man",1959,4,293,1438800,/title/tt0053335/,Action,Adventure,Romance            ,Joseph M. Newman,Denny Miller,Cesare Danova,Joanna Barnes,Robert Douglas,Leon Anderson,Thomas Yangha
+That Lady in Ermine,1948,5.9,668,1414000,/title/tt0040869/,Comedy,Fantasy,Musical            ,Ernst Lubitsch,Betty Grable,Douglas Fairbanks Jr.,Cesar Romero,Walter Abel,Reginald Gardiner,Harry Davenport
+The Little Shop of Horrors,1960,6.3,16594,1400000,/title/tt0054033/,Comedy,Horror            ,,Roger Corman,Jonathan Haze,Jackie Joseph,Mel Welles,Dick Miller,Myrtle Vail,Karyn Kupcinet
+Suddenly,1954,6.8,6142,1400000,/title/tt0047542/,Crime,Drama,Film-Noir            ,Lewis Allen,Frank Sinatra,Sterling Hayden,James Gleason,Nancy Gates,Kim Charney,Willis Bouchey
+Secret of the Incas,1954,6.1,1286,1400000,/title/tt0047464/,Adventure            ,,,Jerry Hopper,Charlton Heston,Robert Young,Nicole Maurey,Thomas Mitchell,Glenda Farrell,Michael Pate
+Riding Shotgun,1954,6.5,999,1400000,/title/tt0047413/,Western            ,,,André De Toth,Randolph Scott,Wayne Morris,Joan Weldon,Joe Sawyer,James Millican,Charles Bronson
+It Should Happen to You,1954,7.2,3471,1400000,/title/tt0047123/,Comedy,Romance            ,,George Cukor,Judy Holliday,Peter Lawford,Jack Lemmon,Michael OShea,Vaughn Taylor,Connie Gilchrist
+The Boy from Oklahoma,1954,5.8,328,1400000,/title/tt0046804/,Western            ,,,Michael Curtiz,Will Rogers Jr.,Nancy Olson,Lon Chaney Jr.,Anthony Caruso,Wallace Ford,Clem Bevans
+Beachhead,1954,5.8,922,1400000,/title/tt0046757/,Drama,War            ,,Stuart Heisler,Tony Curtis,Frank Lovejoy,Mary Murphy,Eduard Franz,Skip Homeier,John Doucette
+War Arrow,1953,5.9,722,1400000,/title/tt0046532/,Romance,War,Western            ,George Sherman,Maureen OHara,Jeff Chandler,John McIntire,Suzan Ball,Noah Beery Jr.,Charles Drake
+Arch of Triumph,1948,6.4,1394,1400000,/title/tt0040109/,Drama,Romance,War            ,Lewis Milestone,Ingrid Bergman,Charles Boyer,Charles Laughton,Louis Calhern,Ruth Warrick,Roman Bohnen
+China Girl,1942,6.3,469,1400000,/title/tt0034593/,Drama,War            ,,Henry Hathaway,Gene Tierney,George Montgomery,Lynn Bari,Victor McLaglen,Alan Baxter,Sig Ruman
+The Son of Kong,1933,5.7,4169,1342880,/title/tt0024593/,Adventure,Comedy,Fantasy            ,Ernest B. Schoedsack,Robert Armstrong,Helen Mack,Frank Reicher,John Marston,Victor Wong,Ed Brady
+Tanganyika,1954,6,174,1300000,/title/tt0047556/,Action,Adventure,Drama            ,André De Toth,Van Heflin,Ruth Roman,Howard Duff,Jeff Morrow,Joe Comadore,Noreen Corcoran
+Rhapsody,1954,6.2,948,1300000,/title/tt0047408/,Drama,Musical,Romance            ,Charles Vidor,Elizabeth Taylor,Vittorio Gassman,John Ericson,Louis Calhern,Michael Chekhov,Barbara Bates
+Red Garters,1954,6,332,1300000,/title/tt0047400/,Action,Music,Romance            ,George Marshall,Rosemary Clooney,Jack Carson,Guy Mitchell,Pat Crowley,Gene Barry,Cass Daley
+Jubilee Trail,1954,5.9,183,1300000,/title/tt0047137/,Western            ,,,Joseph Kane,Vera Ralston,Joan Leslie,Forrest Tucker,John Russell,Ray Middleton,Pat OBrien
+Flame and the Flesh,1954,5.7,103,1300000,/title/tt0046982/,Drama            ,,,Richard Brooks,Lana Turner,Pier Angeli,Carlos Thompson,Bonar Colleano,Charles Goldner,Peter Illing
+Creature from the Black Lagoon,1954,7,27216,1300000,/title/tt0046876/,Horror,Sci-Fi            ,,Jack Arnold,Richard Carlson,Julie Adams,Richard Denning,Antonio Moreno,Nestor Paiva,Whit Bissell
+Crossfire,1947,7.3,7439,1300000,/title/tt0039286/,Crime,Drama,Film-Noir            ,Edward Dmytryk,Robert Young,Robert Mitchum,Robert Ryan,Gloria Grahame,Paul Kelly,Sam Levene
+Commandos Strike at Dawn,1942,6.7,733,1300000,/title/tt0035746/,Drama,History,War            ,John Farrow,Paul Muni,Anna Lee,Lillian Gish,Cedric Hardwicke,Ray Collins,Robert Coote
+Yankee Pasha,1954,6.5,196,1250000,/title/tt0047684/,Adventure,Romance            ,,Joseph Pevney,Jeff Chandler,Rhonda Fleming,Mamie Van Doren,Lee J. Cobb,Hal March,Rex Reason
+The Farmer Takes a Wife,1953,5.4,153,1220000,/title/tt0045752/,Comedy,Musical,Romance            ,Henry Levin,Betty Grable,Dale Robertson,Thelma Ritter,John Carroll,Eddie Foy Jr.,Charlotte Austin
+"Invasion, U.S.A.",1952,3.2,1281,1200000,/title/tt0044750/,Drama,Sci-Fi,War            ,Alfred E. Green,Gerald Mohr,Peggie Castle,Dan OHerlihy,Robert Bice,Tom Kennedy,Wade Crosby
+Ninotchka,1939,7.9,19303,1187000,/title/tt0031725/,Comedy,Romance            ,,Ernst Lubitsch,Greta Garbo,Melvyn Douglas,Ina Claire,Bela Lugosi,Sig Ruman,Felix Bressart
+The Painted Veil,1934,6.6,1342,1172840,/title/tt0025617/,Drama,Romance            ,,Richard Boleslawski,Greta Garbo,Herbert Marshall,George Brent,Warner Oland,Jean Hersholt,Bodil Rosing
+The Milky Way,1936,6.6,1536,1170000,/title/tt0027969/,Comedy,Romance,Sport            ,Leo McCarey,Harold Lloyd,Adolphe Menjou,Verree Teasdale,Helen Mack,William Gargan,George Barbier
+Camille,1936,7.4,7443,1154000,/title/tt0028683/,Drama,Romance            ,,George Cukor,Greta Garbo,Robert Taylor,Lionel Barrymore,Elizabeth Allan,Jessie Ralph,Henry Daniell
+Appointment in Honduras,1953,5.7,511,1150000,/title/tt0045512/,Adventure,Crime,Thriller            ,Jacques Tourneur,Glenn Ford,Ann Sheridan,Zachary Scott,Rodolfo Acosta,Jack Elam,Ric Roman
+Love on the Run,1936,6,1020,1140000,/title/tt0027914/,Comedy,Fantasy,Romance            ,W.S. Van Dyke,Joan Crawford,Clark Gable,Franchot Tone,Reginald Owen,Mona Barrie,Ivan Lebedeff
+"Goodbye, My Fancy",1951,5.9,721,1130000,/title/tt0043595/,Comedy,Romance            ,,Vincent Sherman,Joan Crawford,Robert Young,Frank Lovejoy,Eve Arden,Janice Rule,Lurene Tuttle
+The Story of Vernon and Irene Castle,1939,6.9,2320,1120000,/title/tt0031983/,Biography,Drama,Musical            ,H.C. Potter,Fred Astaire,Ginger Rogers,Edna May Oliver,Walter Brennan,Lew Fields,Etienne Girardot
+No More Ladies,1935,6,722,1117000,/title/tt0026787/,Comedy,Romance            ,,Edward H. Griffith,Joan Crawford,Robert Montgomery,Charles Ruggles,Franchot Tone,Edna May Oliver,Gail Patrick
+Viva Villa!,1934,6.4,1188,1109000,/title/tt0025948/,Action,Biography,Romance            ,Jack Conway,Wallace Beery,Leo Carrillo,Fay Wray,Donald Cook,Stuart Erwin,Henry B. Walthall
+Tarantula,1955,6.5,8824,1100000,/title/tt0048696/,Horror,Sci-Fi            ,,Jack Arnold,John Agar,Mara Corday,Leo G. Carroll,Nestor Paiva,Ross Elliott,Edwin Rand
+The Return of the Vampire,1943,6.2,2045,1090000,/title/tt0037219/,Drama,Horror            ,,Lew Landers,Bela Lugosi,Frieda Inescort,Nina Foch,Roland Varno,Miles Mander,Matt Willis
+Jitterbugs,1943,6.5,1018,1054000,/title/tt0036055/,Comedy,Musical            ,,Malcolm St. Clair,Stan Laurel,Oliver Hardy,Vivian Blaine,Robert Bailey,Douglas Fowley,Noel Madison
+Casablanca,1942,8.5,528707,1024560,/title/tt0034583/,Drama,Romance,War            ,Michael Curtiz,Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains,Conrad Veidt,Sydney Greenstreet
+Anna Christie,1930,6.6,2874,1013000,/title/tt0020641/,Drama,Romance            ,,Clarence Brown,Greta Garbo,Charles Bickford,George F. Marion,Marie Dressler,James T. Mack,Lee Phelps
+The Black Swan,1942,6.8,4051,1012600,/title/tt0034522/,Action,Adventure,Drama            ,Henry King,Tyrone Power,Maureen OHara,Laird Cregar,Thomas Mitchell,George Sanders,Anthony Quinn
+The Killer Shrews,1959,4.1,4546,1000000,/title/tt0052969/,Horror,Sci-Fi            ,,Ray Kellogg,James Best,Ingrid Goude,Ken Curtis,Gordon McLendon,Baruch Lumet,Judge Henry Dupree
+The Delinquents,1957,5.7,523,1000000,/title/tt0050302/,Drama            ,,,Robert Altman,Tom Laughlin,Peter Miller,Richard Bakalyan,Rosemary Howard,Helen Hawley,Leonard Belove
+Teenage Thunder,1957,5.5,52,1000000,/title/tt0048902/,Drama            ,,,Paul Helmick,Chuck Courtney,Melinda Byron,Robert Fuller,Tyler McVey,Paul Bryar,Helene Heigh
+Son of Sinbad,1955,5.6,475,1000000,/title/tt0048642/,Action,Adventure,Fantasy            ,Ted Tetzlaff,Dale Robertson,Sally Forrest,Lili St. Cyr,Vincent Price,Mari Blanchard,Leon Askin
+Robot Monster,1953,3,4626,1000000,/title/tt0046248/,Comedy,Horror,Sci-Fi            ,Phil Tucker,George Nader,Claudia Barrett,Selena Royle,John Mylong,Gregory Moffett,Pamela Paulson
+Limelight,1952,8.1,18540,1000000,/title/tt0044837/,Drama,Music,Romance            ,Charles Chaplin,Charles Chaplin,Claire Bloom,Nigel Bruce,Buster Keaton,Sydney Chaplin,Norman Lloyd
+Drums Along the Mohawk,1939,7.1,5706,1000000,/title/tt0031252/,Drama,History,Romance            ,John Ford,Claudette Colbert,Henry Fonda,Edna May Oliver,Eddie Collins,John Carradine,Dorris Bowdon
+Tumbling Tumbleweeds,1935,6.4,122,1000000,/title/tt0027139/,Music,Western            ,,Joseph Kane,Gene Autry,Smiley Burnette,Lucile Browne,George Gabby Hayes,Norma Taylor,Edward Hearn
+The Miracle Rider,1935,6.8,132,1000000,/title/tt0026720/,Action,Adventure,Drama            ,B. Reeves Eason,Tom Mix,Joan Gale,Charles Middleton,Robert Frazer,Niles Welch,Jason Robards Sr.
+Peg o' My Heart,1933,6.3,1367,1000000,/title/tt0024433/,Drama,Romance            ,,Robert Z. Leonard,Marion Davies,Onslow Stevens,J. Farrell MacDonald,Juliette Compton,Irene Browne,Tyrell Davis
+Raffles,1930,6.4,789,1000000,/title/tt0021281/,Adventure,Crime,Drama            ,George Fitzmaurice,Ronald Colman,Kay Francis,David Torrence,Frederick Kerr,Bramwell Fletcher,John Rogers
+The Indians Are Coming,1930,5.7,33,1000000,/title/tt0020999/,Action,Adventure,Romance            ,Henry MacRae,Tim McCoy,Allene Ray,Edmund Cobb,Francis Ford,Wilbur McGaugh,Bud Osborne
+The Cat and the Fiddle,1934,6.4,371,991900,/title/tt0024960/,Comedy,Musical,Romance            ,William K. Howard,Ramon Novarro,Jeanette MacDonald,Frank Morgan,Charles Butterworth,Jean Hersholt,Vivienne Segal
+Alexander Hamilton,1931,6,231,987540,/title/tt0021595/,Biography,Drama,History            ,John G. Adolfi,George Arliss,Doris Kenyon,Dudley Digges,June Collyer,Montagu Love,Ralf Harolde
+Chikyû Bôeigun,1957,6.2,1415,975000,/title/tt0050251/,Action,Family,Sci-Fi            ,Ishirô Honda,Kenji Sahara,Yumi Shirakawa,Momoko Kôchi,Akihiko Hirata,Takashi Shimura,Susumu Fujita
+The Most Dangerous Game,1932,7.1,10853,965740,/title/tt0023238/,Action,Adventure,Horror            ,Irving Pichel,Joel McCrea,Fay Wray,Robert Armstrong,Leslie Banks,Noble Johnson,Steve Clemente
+Going Hollywood,1933,6.1,1703,962000,/title/tt0024067/,Musical,Romance            ,,Raoul Walsh,Marion Davies,Bing Crosby,Fifi DOrsay,Stuart Erwin,Ned Sparks,Patsy Kelly
+Fearless Fagan,1952,5.9,261,950000,/title/tt0044608/,Comedy            ,,,Stanley Donen,Janet Leigh,Carleton Carpenter,Keenan Wynn,Richard Anderson,Ellen Corby,Barbara Ruick
+Mata Hari,1931,6.6,3346,931000,/title/tt0023196/,Crime,Drama,Romance            ,George Fitzmaurice,Greta Garbo,Ramon Novarro,Lionel Barrymore,Lewis Stone,C. Henry Gordon,Karen Morley
+Animal Crackers,1930,7.5,13702,910015,/title/tt0020640/,Comedy,Musical            ,,Victor Heerman,The Marx Brothers,Groucho Marx,Harpo Marx,Chico Marx,Zeppo Marx,Lillian Roth
+The Beast of the City,1932,6.7,1178,889440,/title/tt0022660/,Crime,Drama,Film-Noir            ,Charles Brabin,Walter Huston,Jean Harlow,Wallace Ford,Jean Hersholt,Dorothy Peterson,Tully Marshall
+Two-Faced Woman,1941,6.3,1620,875000,/title/tt0034328/,Comedy,Romance            ,,George Cukor,Greta Garbo,Melvyn Douglas,Constance Bennett,Roland Young,Robert Sterling,Ruth Gordon
+Anna Karenina,1935,7,4992,865000,/title/tt0026071/,Drama,Romance            ,,Clarence Brown,Greta Garbo,Fredric March,Freddie Bartholomew,Maureen OSullivan,May Robson,Basil Rathbone
+Once Upon a Honeymoon,1942,6.5,2636,861100,/title/tt0035151/,Adventure,Comedy,Drama            ,Leo McCarey,Cary Grant,Ginger Rogers,Walter Slezak,Albert Dekker,Albert Bassermann,Ferike Boros
+Susan and God,1940,5.9,1117,817000,/title/tt0033117/,Comedy,Drama            ,,George Cukor,Joan Crawford,Fredric March,Ruth Hussey,John Carroll,Rita Hayworth,Nigel Bruce
+Susan Lenox (Her Fall and Rise),1931,6.4,1102,806000,/title/tt0022453/,Drama,Romance            ,,Robert Z. Leonard,Greta Garbo,Clark Gable,Jean Hersholt,John Miljan,Alan Hale,Hale Hamilton
+Professor Beware,1938,6.4,165,796000,/title/tt0030631/,Comedy            ,,,Elliott Nugent,Harold Lloyd,Phyllis Welch,Raymond Walburn,Lionel Stander,William Frawley,Thurston Hall
+Queen Christina,1933,7.6,7251,767000,/title/tt0024481/,Biography,Drama,History            ,Rouben Mamoulian,Greta Garbo,John Gilbert,Ian Keith,Lewis Stone,Elizabeth Young,C. Aubrey Smith
+Wuthering Heights,1939,7.6,16683,762484,/title/tt0032145/,Drama,Romance            ,,William Wyler,Merle Oberon,Laurence Olivier,David Niven,Flora Robson,Donald Crisp,Geraldine Fitzgerald
+Le notti di Cabiria,1957,8.1,43572,752045,/title/tt0050783/,Drama            ,,,Federico Fellini,Giulietta Masina,François Périer,Franca Marzi,Dorian Gray,Aldo Silvani,Ennio Girolami
+Romance,1930,5.9,717,733000,/title/tt0021310/,Drama,Romance            ,,Clarence Brown,Greta Garbo,Lewis Stone,Gavin Gordon,Elliott Nugent,Florence Lake,Clara Blandick
+Conquest,1937,6.6,1360,730000,/title/tt0028739/,Drama,History,Romance            ,Clarence Brown,Greta Garbo,Charles Boyer,Reginald Owen,Alan Marshal,Henry Stephenson,Leif Erickson
+Inspiration,1931,6.3,478,725000,/title/tt0022001/,Drama,Romance            ,,Clarence Brown,Greta Garbo,Robert Montgomery,Lewis Stone,Marjorie Rambeau,Judith Vosselli,Beryl Mercer
+As You Desire Me,1932,6.4,593,705000,/title/tt0022641/,Drama,Romance            ,,George Fitzmaurice,Greta Garbo,Melvyn Douglas,Erich von Stroheim,Owen Moore,Hedda Hopper,Rafaela Ottiano
+Secrets,1933,6.5,599,697432,/title/tt0024539/,Drama,Western            ,,Frank Borzage,Mary Pickford,Leslie Howard,C. Aubrey Smith,Blanche Friderici,Doris Lloyd,Herbert Evans
+The Cat's-Paw,1934,6.7,1161,693000,/title/tt0024961/,Comedy            ,,,Sam Taylor,Harold Lloyd,Una Merkel,George Barbier,Nat Pendleton,Grace Bradley,Alan Dinehart
+The Bashful Bachelor,1942,5.6,121,675000,/title/tt0033379/,Comedy            ,,,Malcolm St. Clair,Chester Lauck,Norris Goff,Zasu Pitts,Grady Sutton,Oscar OShea,Louise Currie
+You Were Never Lovelier,1942,7.2,3325,672900,/title/tt0035583/,Comedy,Musical,Romance            ,William A. Seiter,Fred Astaire,Rita Hayworth,Adolphe Menjou,Isobel Elsom,Leslie Brooks,Adele Mara
+George Washington Slept Here,1942,7,1533,661500,/title/tt0034780/,Comedy            ,,,William Keighley,Jack Benny,Ann Sheridan,Charles Coburn,Percy Kilbride,Hattie McDaniel,William Tracy
+The Night of the Hunter,1955,8,83000,654000,/title/tt0048424/,Crime,Drama,Film-Noir            ,Charles Laughton,Robert Mitchum,Shelley Winters,Lillian Gish,James Gleason,Evelyn Varden,Peter Graves
+Star Spangled Rhythm,1942,6.6,525,602500,/title/tt0035379/,Comedy,Musical            ,,George Marshall,Bing Crosby,Bob Hope,Fred MacMurray,Franchot Tone,Ray Milland,Victor Moore
+Stand by for Action,1942,6.6,531,553800,/title/tt0036386/,Action,Drama,War            ,Robert Z. Leonard,Robert Taylor,Charles Laughton,Brian Donlevy,Walter Brennan,Marilyn Maxwell,Henry ONeill
+Pather Panchali,1955,8.6,24146,536364,/title/tt0048473/,Drama            ,,,Satyajit Ray,Kanu Bannerjee,Karuna Bannerjee,Chunibala Devi,Uma Das Gupta,Subir Banerjee,Runki Banerjee
+The African Queen,1951,7.7,72291,536118,/title/tt0043265/,Adventure,Drama,Romance            ,John Huston,Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull,Theodore Bikel,Walter Gotell
+Little Big Horn,1951,6.5,379,521260,/title/tt0043747/,Western            ,,,Charles Marquis Warren,Lloyd Bridges,John Ireland,Marie Windsor,Reed Hadley,Jim Davis,Wally Cassell
+The Black Cat,1934,7,9786,514480,/title/tt0024894/,Adventure,Crime,Horror            ,Edgar G. Ulmer,Boris Karloff,Bela Lugosi,David Manners,Julie Bishop,Egon Brecher,Harry Cording
+Radio City Revels,1938,6.3,99,510000,/title/tt0030651/,Comedy,Musical,Romance            ,Benjamin Stoloff,Bob Burns,Jack Oakie,Kenny Baker,Ann Miller,Victor Moore,Milton Berle
+Sora no daikaijû Radon,1956,6.3,4699,500000,/title/tt0049782/,Adventure,Drama,Horror            ,Ishirô Honda,Kenji Sahara,Yumi Shirakawa,Akihiko Hirata,Akio Kobori,Yasuko Nakada,Minosuke Yamada
+Westward Ho,1935,5.7,469,500000,/title/tt0027200/,Action,Drama,History            ,Robert N. Bradbury,John Wayne,Sheila Bromley,Frank McGlynn Jr.,Jim Farley,Jack Curtis,Bradley Metcalfe
+Madam Satan,1930,6.5,876,500000,/title/tt0021106/,Comedy,Drama,Musical            ,Cecil B. DeMille,Kay Johnson,Reginald Denny,Lillian Roth,Roland Young,Elsa Peterson,Jack King
+Attack of the 50 Foot Woman,1958,5.1,5005,480000,/title/tt0051380/,Horror,Sci-Fi            ,,Nathan Juran,Allison Hayes,William Hudson,Yvette Vickers,Roy Gordon,George Douglas,Ken Terrell
+In Which We Serve,1942,7.2,5246,450000,/title/tt0034891/,Drama,War            ,,Noël Coward,Noël Coward,John Mills,Bernard Miles,Celia Johnson,Kay Walsh,Joyce Carey
+The Third Man,1949,8.1,160839,449191,/title/tt0041959/,Film-Noir,Mystery,Thriller            ,Carol Reed,Joseph Cotten,Alida Valli,Orson Welles,Trevor Howard,Bernard Lee,Paul Hörbiger
+The Palm Beach Story,1942,7.5,10984,438200,/title/tt0035169/,Comedy,Romance            ,,Preston Sturges,Claudette Colbert,Joel McCrea,Mary Astor,Rudy Vallee,Sig Arno,Robert Warwick
+Mourning Becomes Electra,1947,6.5,1014,435000,/title/tt0039636/,Drama            ,,,Dudley Nichols,Rosalind Russell,Michael Redgrave,Raymond Massey,Katina Paxinou,Leo Genn,Kirk Douglas
+Kiki,1931,5,304,426513,/title/tt0022026/,Musical            ,,,Sam Taylor,Mary Pickford,Reginald Denny,Joseph Cawthorn,Margaret Livingston,Phil Tead,Fred Walton
+Tip on a Dead Jockey,1957,6.2,293,400000,/title/tt0051088/,Crime,Drama,Film-Noir            ,Richard Thorpe,Robert Taylor,Dorothy Malone,Gia Scala,Martin Gabel,Marcel Dalio,Jack Lord
+Four Wives,1939,6.5,566,355200,/title/tt0031336/,Drama,Romance            ,,Michael Curtiz,Priscilla Lane,Rosemary Lane,Lola Lane,Gale Page,Claude Rains,Jeffrey Lynn
+Prisoner of Japan,1942,5,61,350000,/title/tt0035217/,Drama,War            ,,Arthur Ripley,Alan Baxter,Gertrude Michael,Ernst Deutsch,Corinna Mura,Tom Seidel,Billy Moya
+Destry Rides Again,1939,7.7,10448,345000,/title/tt0031225/,Comedy,Western            ,,George Marshall,Marlene Dietrich,James Stewart,Mischa Auer,Charles Winninger,Brian Donlevy,Allen Jenkins
+The Fallen Idol,1948,7.7,7952,341121,/title/tt0040338/,Drama,Mystery,Thriller            ,Carol Reed,Ralph Richardson,Michèle Morgan,Sonia Dresdel,Bobby Henrey,Denis ODea,Jack Hawkins
+À bout de souffle,1960,7.8,74436,336705,/title/tt0053472/,Crime,Drama            ,,Jean-Luc Godard,Jean Seberg,Jean-Paul Belmondo,Daniel Boulanger,Henri-Jacques Huet,Roger Hanin,Van Doude
+Ladri di biciclette,1948,8.3,149216,332930,/title/tt0040522/,Drama            ,,,Vittorio De Sica,Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Elena Altieri,Gino Saltamerenda,Giulio Chiari
+Monsieur Verdoux,1947,7.9,16145,325000,/title/tt0039631/,Comedy,Crime,Drama            ,Charles Chaplin,Charles Chaplin,Mady Correll,Allison Roddan,Robert Lewis,Audrey Betz,Martha Raye
+I Married a Witch,1942,7.1,7157,312700,/title/tt0034881/,Comedy,Fantasy,Romance            ,René Clair,Fredric March,Veronica Lake,Robert Benchley,Susan Hayward,Cecil Kellaway,Elizabeth Patterson
+The Great Victor Herbert,1939,6.4,65,301700,/title/tt0031393/,Biography,Music,Musical            ,Andrew L. Stone,Allan Jones,Mary Martin,Walter Connolly,Lee Bowman,Judith Barrett,Susanna Foster
+La belle et la bête,1946,7.9,24496,298718,/title/tt0038348/,Drama,Fantasy,Romance            ,Jean Cocteau,Jean Marais,Josette Day,Mila Parély,Nane Germon,Michel Auclair,Raoul Marco
+His Girl Friday,1940,7.9,54312,296000,/title/tt0032599/,Comedy,Drama,Romance            ,Howard Hawks,Cary Grant,Rosalind Russell,Ralph Bellamy,Gene Lockhart,Porter Hall,Ernest Truex
+The Great Dictator,1940,8.4,206062,288475,/title/tt0032553/,Comedy,Drama,War            ,Charles Chaplin,Charles Chaplin,Jack Oakie,Reginald Gardiner,Henry Daniell,Billy Gilbert,Grace Hayle
+Swanee River,1939,6.5,137,285100,/title/tt0031996/,Biography,Drama,Musical            ,Sidney Lanfield,Don Ameche,Andrea Leeds,Al Jolson,Felix Bressart,Chick Chandler,Russell Hicks
+Annapolis Salute,1937,5.8,74,272000,/title/tt0028578/,Drama,Romance            ,,Christy Cabanne,James Ellison,Marsha Hunt,Harry Carey,Van Heflin,Ann Hovey,Arthur Lake
+Shichinin no samurai,1954,8.6,320137,269061,/title/tt0047478/,Action,Adventure,Drama            ,Akira Kurosawa,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,Kamatari Fujiwara,Daisuke Katô
+The Thief of Bagdad,1940,7.4,12098,268948,/title/tt0033152/,Adventure,Family,Fantasy            ,Ludwig Berger,Conrad Veidt,Sabu,June Duprez,John Justin,Rex Ingram,Miles Malleson
+Balalaika,1939,6.3,291,254200,/title/tt0031074/,Musical,Romance            ,,Reinhold Schünzel,Nelson Eddy,Ilona Massey,Charles Ruggles,Frank Morgan,Lionel Atwill,C. Aubrey Smith
+Judge Hardy and Son,1939,6.9,373,251300,/title/tt0031517/,Comedy            ,,,George B. Seitz,Mickey Rooney,Lewis Stone,Fay Holden,Cecilia Parker,Ann Rutherford,Sara Haden
+The Fast and the Furious,1954,5.3,1194,250000,/title/tt0046969/,Crime,Drama,Mystery            ,John Ireland,John Ireland,Dorothy Malone,Bruce Carlisle,Iris Adrian,Marshall Bradford,Bruno VeSota
+Mayerling,1936,7,698,240000,/title/tt0027951/,Drama,Romance            ,,Anatole Litvak,Charles Boyer,Danielle Darrieux,Marthe Régnier,Yolande Laffon,Suzy Prim,Gina Manès
+Red River Valley,1936,5.6,183,225000,/title/tt0028163/,Western            ,,,B. Reeves Eason,Gene Autry,Smiley Burnette,Frances Grant,Boothe Howard,Jack Kennedy,Champion
+Brighton Rock,1948,7.4,5334,223887,/title/tt0039220/,Crime,Drama            ,,John Boulting,Richard Attenborough,Hermione Baddeley,William Hartnell,Harcourt Williams,Wylie Watson,Nigel Stock
+Whistling in Dixie,1942,6.7,588,217300,/title/tt0035552/,Comedy,Mystery,Crime            ,S. Sylvan Simon,Red Skelton,Ann Rutherford,George Bancroft,Guy Kibbee,Diana Lewis,Peter Whitney
+The Shop Around the Corner,1940,8.1,28891,203300,/title/tt0033045/,Comedy,Drama,Romance            ,Ernst Lubitsch,Margaret Sullavan,James Stewart,Frank Morgan,Joseph Schildkraut,Sara Haden,Felix Bressart
+Life Begins at Eight-Thirty,1942,6.1,189,195600,/title/tt0034976/,Comedy,Drama,Romance            ,Irving Pichel,Monty Woolley,Ida Lupino,Cornel Wilde,Sara Allgood,Melville Cooper,J. Edward Bromberg
+Eternally Yours,1939,5.8,653,184500,/title/tt0031282/,Comedy,Drama,Romance            ,Tay Garnett,Loretta Young,David Niven,Hugh Herbert,Billie Burke,C. Aubrey Smith,Raymond Walburn
+Let's Try Again,1934,4.9,123,183000,/title/tt0025384/,Drama            ,,,Worthington Miner,Diana Wynyard,Clive Brook,Helen Vinson,Irene Hervey,Theodore Newton,Arthur Hoyt
+La Grande Illusion,1937,8.1,34217,172885,/title/tt0028950/,Drama,War            ,,Jean Renoir,Jean Gabin,Dita Parlo,Pierre Fresnay,Erich von Stroheim,Julien Carette,Georges Péclet
+Aparajito,1956,8.4,11945,170215,/title/tt0048956/,Drama            ,,,Satyajit Ray,Kamala Adhikari,Lalchand Banerjee,Kali Bannerjee,Kanu Bannerjee,Karuna Bannerjee,Panchanan Bhattacharya
+Remember the Night,1940,7.6,4909,167800,/title/tt0032981/,Comedy,Drama,Romance            ,Mitchell Leisen,Barbara Stanwyck,Fred MacMurray,Beulah Bondi,Elizabeth Patterson,Willard Robertson,Sterling Holloway
+Modern Times,1936,8.5,221625,163245,/title/tt0027977/,Comedy,Drama,Family            ,Charles Chaplin,Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford,Chester Conklin,Hank Mann
+Mughal-E-Azam,1960,8.2,7405,161434,/title/tt0054098/,Drama,Romance,War            ,K. Asif,Prithviraj Kapoor,Madhubala,Dilip Kumar,Durga Khote,Nigar Sultana,Ajit
+Pépé le Moko,1937,7.8,6677,153936,/title/tt0029453/,Crime,Drama,Romance            ,Julien Duvivier,Jean Gabin,Gabriel Gabrio,Saturnin Fabre,Fernand Charpin,Lucas Gridoux,Gilbert Gil
+No Greater Sin,1941,5.2,37,150000,/title/tt0033957/,Drama            ,,,William Nigh,Leon Ames,Luana Walters,Pamela Blake,Malcolm Bud McTaggart,Guy Usher,Bodil Rosing
+Touchez pas au grisbi,1954,7.8,6918,131548,/title/tt0046451/,Crime,Drama            ,,Jacques Becker,Jean Gabin,René Dary,Dora Doll,Vittorio Sanipoli,Marilyn Buferd,Gaby Basset
+Brother Rat and a Baby,1940,5.4,254,121000,/title/tt0032286/,Comedy            ,,,Ray Enright,Priscilla Lane,Wayne Morris,Jane Bryan,Eddie Albert,Jane Wyman,Ronald Reagan
+Monster from the Ocean Floor,1954,3.6,505,117000,/title/tt0047244/,Horror,Sci-Fi            ,,Wyott Ordung,Anne Kimbell,Stuart Wade,Dick Pinner,Wyott Ordung,Inez Palange,Jonathan Haze
+Invisible Stripes,1939,6.8,1473,114000,/title/tt0032636/,Action,Crime,Drama            ,Lloyd Bacon,George Raft,Jane Bryan,William Holden,Humphrey Bogart,Flora Robson,Paul Kelly
+Ascenseur pour l'échafaud,1958,8,22730,109257,/title/tt0051378/,Crime,Drama,Thriller            ,Louis Malle,Jeanne Moreau,Maurice Ronet,Georges Poujouly,Yori Bertin,Jean Wall,Elga Andersen
+Lola Montès,1955,7.3,4964,107264,/title/tt0048308/,Biography,Drama,Romance            ,Max Ophüls,Martine Carol,Peter Ustinov,Anton Walbrook,Henri Guisol,Lise Delamare,Paulette Dubost
+The Shaggy Dog,1959,6.5,4524,100935,/title/tt0053271/,Comedy,Family,Fantasy            ,Charles Barton,Fred MacMurray,Jean Hagen,Tommy Kirk,Annette Funicello,Tim Considine,Kevin Corcoran
+I vitelloni,1953,7.9,16572,97944,/title/tt0046521/,Comedy,Drama            ,,Federico Fellini,Franco Interlenghi,Alberto Sordi,Franco Fabrizi,Leopoldo Trieste,Riccardo Fellini,Leonora Ruffo
+Rashomon,1950,8.2,155085,96568,/title/tt0042876/,Crime,Drama,Mystery            ,Akira Kurosawa,Toshirô Mifune,Machiko Kyô,Masayuki Mori,Takashi Shimura,Minoru Chiaki,Kichijirô Ueda
+On Dress Parade,1939,6.2,285,95100,/title/tt0031012/,Drama            ,,,William Clemens,Billy Halop,Bobby Jordan,Huntz Hall,Gabriel Dell,Leo Gorcey,Bernard Punsly
+Jalsaghar,1958,8,5284,94886,/title/tt0051792/,Drama,Music            ,,Satyajit Ray,Chhabi Biswas,Sardar Akhtar,Gangapada Basu,Bismillah Khan,Salamat Ali Khan,Waheed Khan
+Classe tous risques,1960,7.5,3277,94552,/title/tt0052698/,Crime,Drama,Romance            ,Claude Sautet,Lino Ventura,Sandra Milo,Jean-Paul Belmondo,Marcel Dalio,Michel Ardan,Simone France
+Devi,1960,7.8,1917,93215,/title/tt0053765/,Drama            ,,,Satyajit Ray,Sharmila Tagore,Soumitra Chatterjee,Chhabi Biswas,Karuna Bannerjee,Purnendu Mukherjee,Arpan Chowdhury
+The Tales of Hoffmann,1951,7.2,3011,90365,/title/tt0044103/,Fantasy,Music,Musical            ,Michael Powell,Moira Shearer,Ludmilla Tchérina,Ann Ayars,Pamela Brown,Léonide Massine,Robert Helpmann
+Hiroshima mon amour,1959,7.9,29009,88300,/title/tt0052893/,Drama,Romance            ,,Alain Resnais,Emmanuelle Riva,Eiji Okada,Stella Dassas,Pierre Barbaud,Bernard Fresson,Moira Lister
+Raffles,1939,6.3,833,86600,/title/tt0032963/,Adventure,Comedy,Crime            ,Sam Wood,David Niven,Olivia de Havilland,May Whitty,Dudley Digges,Douglas Walton,E.E. Clive
+Peeping Tom,1960,7.7,31912,83957,/title/tt0054167/,Drama,Horror,Thriller            ,Michael Powell,Karlheinz Böhm,Moira Shearer,Anna Massey,Maxine Audley,Brenda Bruce,Miles Malleson
+Green Fields,1937,6.6,85,80000,/title/tt0028957/,Comedy,Romance            ,,Jacob Ben-Ami,Michael Gorrin,Helen Beverley,Isidore Cashier,Anna Appel,Max Vodnoy,Lea Noemi
+Der blaue Engel,1930,7.7,13910,77982,/title/tt0020697/,Drama,Music            ,,Josef von Sternberg,Emil Jannings,Marlene Dietrich,Kurt Gerron,Rosa Valetti,Hans Albers,Reinhold Bernt
+Umberto D.,1952,8.2,23418,74308,/title/tt0045274/,Drama            ,,,Vittorio De Sica,Carlo Battisti,Maria Pia Casilio,Lina Gennari,Ileana Simova,Elena Rea,Memmo Carotenuto
+Date with Death,1959,6.6,50,60000,/title/tt0124336/,Crime            ,,,Harold Daniels,Gerald Mohr,Liz Renay,Harry Lauter,Stephanie Farnay,Ed Erwin,Robert Clarke
+Du rififi chez les hommes,1955,8.1,30173,57226,/title/tt0048021/,Crime,Drama,Thriller            ,Jules Dassin,Jean Servais,Carl Möhner,Robert Manuel,Janine Darcey,Pierre Grasset,Robert Hossein
+Ikiru,1952,8.3,70128,55240,/title/tt0044741/,Drama            ,,,Akira Kurosawa,Takashi Shimura,Shinichi Himori,Haruo Tanaka,Minoru Chiaki,Miki Odagiri,Bokuzen Hidari
+The Grapes of Wrath,1940,8,86234,55000,/title/tt0032551/,Drama,History            ,,John Ford,Henry Fonda,Jane Darwell,John Carradine,Charley Grapewin,Dorris Bowdon,Russell Simpson
+Les yeux sans visage,1960,7.7,28177,52709,/title/tt0053459/,Drama,Horror            ,,Georges Franju,Pierre Brasseur,Alida Valli,Juliette Mayniel,Alexandre Rignault,Béatrice Altariba,Charles Blavette
+He Married His Wife,1940,6,190,50600,/title/tt0032575/,Comedy            ,,,Roy Del Ruth,Joel McCrea,Nancy Kelly,Roland Young,Mary Boland,Cesar Romero,Mary Healy
+Le amiche,1955,7.2,2673,50005,/title/tt0047821/,Drama,Romance            ,,Michelangelo Antonioni,Eleonora Rossi Drago,Gabriele Ferzetti,Franco Fabrizi,Valentina Cortese,Yvonne Furneaux,Madeleine Fischer
+Anatahan,1953,7.1,1042,49899,/title/tt0046712/,Drama,History,War            ,Josef von Sternberg,Akemi Negishi,Tadashi Suganuma,Kisaburo Sawamura,Shôji Nakayama,Jun Fujikawa,Hiroshi Kondô
+Mädchen für die Mambo-Bar,1959,6.7,24,43500,/title/tt0062615/,Crime,Drama            ,,Wolfgang Glück,Kai Fischer,Gerlinde Locker,Sieghardt Rupp,Jimmy Makulis,Rolf Kutschera,Edith Elmay
+A Child Is Born,1939,6,172,40500,/title/tt0032333/,Drama            ,,,Lloyd Bacon,Geraldine Fitzgerald,Jeffrey Lynn,Gladys George,Gale Page,Spring Byington,Johnnie Davis
+Panique,1946,8,1623,40061,/title/tt0038824/,Crime,Drama            ,,Julien Duvivier,Viviane Romance,Michel Simon,Max Dalban,Émile Drain,Guy Favières,Louis Florencie
+Private Detective,1939,6,227,40000,/title/tt0031825/,Action,Adventure,Comedy            ,Noel M. Smith,Jane Wyman,Dick Foran,Gloria Dickson,Maxie Rosenbloom,John Ridgely,Morgan Conway
+Le crime de Monsieur Lange,1936,7.3,3000,36438,/title/tt0027478/,Comedy,Crime,Drama            ,Jean Renoir,René Lefèvre,Florelle,Jules Berry,Marcel Lévesque,Odette Talazac,Henri Guisol
+Le corbeau,1943,7.9,9149,34909,/title/tt0035753/,Crime,Drama,Mystery            ,Henri-Georges Clouzot,Pierre Fresnay,Ginette Leclerc,Micheline Francey,Héléna Manson,Jeanne Fusier-Gir,Sylvie
+Le jour se lève,1939,7.8,6855,34570,/title/tt0031514/,Crime,Drama,Romance            ,Marcel Carné,Jean Gabin,Jules Berry,Arletty,Mady Berry,René Génin,Arthur Devère
+Le trou,1960,8.5,15786,33187,/title/tt0054407/,Crime,Drama,Thriller            ,Jacques Becker,Michel Constantin,Jean Keraudy,Philippe Leroy,Raymond Meunier,Marc Michel,Jean-Paul Coquelin
+L'âge d'or,1930,7.3,13003,32712,/title/tt0021577/,Comedy,Drama            ,,Luis Buñuel,Gaston Modot,Lya Lys,Caridad de Laberdesque,Max Ernst,Artigas,Lionel Salem
+Risate di gioia,1960,7.3,705,30791,/title/tt0054242/,Comedy,Drama            ,,Mario Monicelli,Anna Magnani,Totò,Ben Gazzara,Fred Clark,Edy Vessel,Gina Rovere
+M - Eine Stadt sucht einen Mörder,1931,8.3,145725,28877,/title/tt0022100/,Crime,Mystery,Thriller            ,Fritz Lang,Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke,Theodor Loos,Gustaf Gründgens
+Senso,1954,7.5,6270,27723,/title/tt0047469/,Drama,History,Romance            ,Luchino Visconti,Farley Granger,Alida Valli,Massimo Girotti,Heinz Moog,Rina Morelli,Christian Marquand
+Little Fugitive,1953,7.5,2541,27373,/title/tt0046004/,Drama,Family            ,,Ray Ashley,Richard Brewster,Winifred Cushing,Jay Williams,Will Lee,Charlie Moss,Tommy DeCanio
+Le quai des brumes,1938,7.8,8400,26765,/title/tt0030643/,Crime,Drama,Romance            ,Marcel Carné,Jean Gabin,Michel Simon,Michèle Morgan,Pierre Brasseur,Édouard Delmont,Raymond Aimos
+Quai des Orfèvres,1947,7.8,5178,26516,/title/tt0039739/,Crime,Drama            ,,Henri-Georges Clouzot,Louis Jouvet,Simone Renant,Bernard Blier,Suzy Delair,Pierre Larquey,Jeanne Fusier-Gir
+The Old Dark House,1932,7.1,9664,25678,/title/tt0023293/,Comedy,Horror,Thriller            ,James Whale,Boris Karloff,Melvyn Douglas,Charles Laughton,Lilian Bond,Ernest Thesiger,Eva Moore
+Went the Day Well?,1942,7.5,3286,24509,/title/tt0035429/,Thriller,War            ,,Alberto Cavalcanti,Leslie Banks,C.V. France,Valerie Taylor,Marie Lohr,Harry Fowler,Norman Pierce
+Fanny,1932,7.7,1540,22505,/title/tt0022877/,Comedy,Drama            ,,Marc Allégret,Raimu,Pierre Fresnay,Orane Demazis,Fernand Charpin,Auguste Mouriès,Robert Vattier
+Metropolitan,1935,6.7,92,21711,/title/tt0026705/,Drama,Musical,Romance            ,Richard Boleslawski,Lawrence Tibbett,Virginia Bruce,Alice Brady,Cesar Romero,Thurston Hall,Luis Alberni
+City Lights,1931,8.5,170409,19181,/title/tt0021749/,Comedy,Drama,Romance            ,Charles Chaplin,Virginia Cherrill,Florence Lee,Harry Myers,Al Ernest Garcia,Hank Mann,Charles Chaplin
+La traversée de Paris,1956,7.4,3585,17824,/title/tt0049877/,Drama            ,,,Claude Autant-Lara,Jean Gabin,Bourvil,Louis de Funès,Jeannette Batti,Georgette Anys,Robert Arnoux
+La legge,1959,6.8,728,17351,/title/tt0051852/,Comedy,Crime,Drama            ,Jules Dassin,Gina Lollobrigida,Pierre Brasseur,Marcello Mastroianni,Melina Mercouri,Yves Montand,Raf Mattioli
+Letyat zhuravli,1957,8.3,15441,16990,/title/tt0050634/,Drama,Romance,War            ,Mikhail Kalatozov,Tatyana Samoylova,Aleksey Batalov,Vasiliy Merkurev,Aleksandr Shvorin,Svetlana Kharitonova,Konstantin Kadochnikov
+Detour,1945,7.4,15648,16172,/title/tt0037638/,Crime,Drama,Film-Noir            ,Edgar G. Ulmer,Tom Neal,Ann Savage,Claudia Drake,Edmund MacDonald,Tim Ryan,Esther Howard
+Apur Sansar,1959,8.5,12378,16000,/title/tt0052572/,Drama            ,,,Satyajit Ray,Soumitra Chatterjee,Sharmila Tagore,Alok Chakravarty,Swapan Mukherjee,Tushar Bandyopadhyay,Gupi Banerjee
+Bob le flambeur,1956,7.7,11023,15586,/title/tt0047892/,Crime,Drama,Thriller            ,Jean-Pierre Melville,Isabelle Corey,Daniel Cauchy,Roger Duchesne,Guy Decomble,André Garet,Gérard Buhr
+Quand tu liras cette lettre,1953,6.6,595,15552,/title/tt0045981/,Drama            ,,,Jean-Pierre Melville,Philippe Lemaire,Juliette Gréco,Yvonne Sanson,Irene Galter,Daniel Cauchy,Robert Dalban
+Dial M for Murder,1954,8.2,160875,12562,/title/tt0046912/,Crime,Thriller            ,,Alfred Hitchcock,Ray Milland,Grace Kelly,Robert Cummings,John Williams,Anthony Dawson,Leo Britt
+Les Parents Terribles,1948,6.9,686,11818,/title/tt0040682/,Drama            ,,,Jean Cocteau,Jean Marais,Josette Day,Yvonne de Bray,Marcel André,Gabrielle Dorziat,Jean Cocteau
+Rendez-vous de juillet,1949,7.2,356,11321,/title/tt0041800/,Comedy,Drama            ,,Jacques Becker,Daniel Gélin,Brigitte Auber,Nicole Courcel,Pierre Trabaud,Maurice Ronet,Philippe Mareuil
+Ugetsu monogatari,1953,8.3,21333,11197,/title/tt0046478/,Drama,Fantasy,War            ,Kenji Mizoguchi,Machiko Kyô,Mitsuko Mito,Kinuyo Tanaka,Masayuki Mori,Eitarô Ozawa,Sugisaku Aoyama
+Jeux interdits,1952,8,11289,10188,/title/tt0043686/,Comedy,Drama,War            ,René Clément,Georges Poujouly,Brigitte Fossey,Amédée,Laurence Badie,Madeleine Barbulée,Suzanne Courtal
+All About Eve,1950,8.2,122189,10177,/title/tt0042192/,Drama            ,,,Joseph L. Mankiewicz,Bette Davis,Anne Baxter,George Sanders,Celeste Holm,Gary Merrill,Hugh Marlowe
+Olivia,1951,7,443,9563,/title/tt0042803/,Comedy,Drama            ,,Jacqueline Audry,Edwige Feuillère,Simone Simon,Marie-Claire Olivia,Yvonne de Bray,Suzanne Dehelly,Marina de Berg
+Antoine et Antoinette,1947,7.3,817,9487,/title/tt0039155/,Comedy,Drama            ,,Jacques Becker,Roger Pigaut,Claire Mafféi,Noël Roquevert,Gaston Modot,Made Siamé,Pierre Trabaud
+Maigret tend un piège,1958,7.2,1605,8528,/title/tt0050669/,Crime,Drama            ,,Jean Delannoy,Jean Gabin,Annie Girardot,Olivier Hussenot,Jeanne Boitel,Lucienne Bogaert,Jean Debucourt
+The Man in the White Suit,1951,7.3,8977,8265,/title/tt0044876/,Comedy,Drama,Sci-Fi            ,Alexander Mackendrick,Alec Guinness,Joan Greenwood,Cecil Parker,Michael Gough,Ernest Thesiger,Howard Marion-Crawford
+The Lady from Shanghai,1947,7.6,27504,7927,/title/tt0040525/,Crime,Drama,Film-Noir            ,Orson Welles,Rita Hayworth,Orson Welles,Everett Sloane,Glenn Anders,Ted de Corsia,Erskine Sanford
+It Always Rains on Sunday,1947,7.2,1540,7176,/title/tt0040481/,Crime,Drama            ,,Robert Hamer,Googie Withers,Edward Chapman,Susan Shaw,Patricia Plunkett,David Liney,Sydney Tafler
+La grande strada azzurra,1957,6.9,573,6741,/title/tt0050454/,Drama,Romance            ,,Gillo Pontecorvo,Yves Montand,Alida Valli,Francisco Rabal,Umberto Spadaro,Peter Carsten,Federica Ranchi
